@@ -8,5 +8,14 @@ body {
 
 /*Carousel*/
 .carousel-item {
-    width: 50%;
+    width: 75%;
+    padding: 10px;
+    background-color:slategrey;
+    margin-top: 20px;
+    
+}
+
+#event-carousel {
+    align-items: center;
+    padding-left: 270px;
 }
