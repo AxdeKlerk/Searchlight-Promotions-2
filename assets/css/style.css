@@ -1,4 +1,12 @@
+/*global styles*/
+
+
 body {
     background-color: black;
     color:white;
+}
+
+/*Carousel*/
+.carousel-item {
+    width: 50%;
 }
