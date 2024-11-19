@@ -1,6 +1,6 @@
 
 
-![Logo](https://github.com/user-attachments/assets/07b19f2b-0d30-4e2e-a978-fed7a034b856)
+![Searchlight Promotions solid green](https://github.com/user-attachments/assets/4f943f6b-435e-4d4e-9259-f5e50b7651fc)
 <h1>Searchlight Promotions</h1>
 --context (brand recognition)
 --image of site working on all devices
