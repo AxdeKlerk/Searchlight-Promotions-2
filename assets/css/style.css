@@ -1,12 +1,55 @@
+/*Google fonts import code*/
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Protest+Revolution&display=swap');
+
 /*global styles*/
-
-
 body {
     background-color: black;
+    font-family: "Geist Mono", monospace;
+    font-size: 12px;
     color:white;
 }
 
-/*Carousel*/
-.carousel-item {
-    width: 50%;
+/*Navbar*/
+.navbar-brand {
+    margin-right: -0.25rem;
 }
+
+#logo {
+    font-family: "Protest Revolution", sans-serif;
+    color: #11ED73;
+    padding-top: 10px;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2817, 237, 115, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.nav-link {
+    color: #11ED73;
+}
+
+/*Carousel*/
+.c-item {
+    padding: 5px;
+    background-color:#11ED73;   
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+}    
+
+#event-carousel {
+    align-items: center;
+    padding-left: 270px;
+}
+
+.carousel-indicator {
+    align-items: center;
+}
+
+/*About page*/
+
+/*Events page*/
+
+/*Contact page*/
