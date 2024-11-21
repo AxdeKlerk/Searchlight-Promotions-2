@@ -29,23 +29,8 @@ body {
 }
 
 /*Carousel*/
-.c-item {
-    padding: 5px;
-    background-color:#11ED73;   
-}
-
-.c-img {
-    height: 100%;
-    object-fit: cover;
-}    
-
-#event-carousel {
-    align-items: center;
-    padding-left: 270px;
-}
-
-.carousel-indicator {
-    align-items: center;
+.carousel-item {
+    width: 50%;
 }
 
 /*About page*/
