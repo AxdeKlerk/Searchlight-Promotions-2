@@ -30,14 +30,15 @@ body {
 
 /*Carousel*/
 .c-item {
-    height: auto;;
+    height: 100%;
     padding: 10px;
-    background-color: #11ED73;
+    background-color: #11ED73;  
 }
 
-.c-img {
-    height:100%;
-    object-fit: cover;
+.carousel-caption {
+    background-color: rgba(17, 237, 115, 0.3);
+    color: black;
+    font-family: "Protest Revolution", sans-serif;
 }
 
 /*About page*/

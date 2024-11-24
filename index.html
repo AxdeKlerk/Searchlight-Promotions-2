@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
   </head>
   <body>
-    <!--Navbar-->
+  <!--Navbar-->
     <nav class="navbar navbar-expand-sm bg-black" data-bs-theme="black">
       <div class="container-fluid justify-content-end">
           <a class="navbar-brand" href="index.html">
@@ -37,37 +37,49 @@
       </div>
     </nav>
 
-    <!-- Carousel-->
-    <div id="hero-carousel" class="carousel slide">
-      <div class="carousel-indicators">
-        <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-        <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-        <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-        <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
-      </div>
-        <div class="carousel-inner">
-          <div class="carousel-item c-item">
-            <img src="assets/images/carousel images/Roxoff.jpg" class="d-block w-100 c-img" alt="event roxoff festival on 04 may 25">
-          </div>
-          <div class="carousel-item c-item">
-            <img src="assets/images/carousel images/after the smoke clears 13.12.24.jpeg" class="d-block w-100 c-img" alt="event after the smoke clears on 13 dec 24">
-          </div>
-          <div class="carousel-item c-item">
-            <img src="assets/images/carousel images/THOT.png" class="d-block w-100 c-img" alt="event the hot one two on 20 dec 24">
-          </div>
-          <div class="carousel-item c-item active">
-            <img src="assets/images/carousel images/secreum.png" class="d-block w-100 c-img" alt="event sereum on 28 dec 24">
+  <!-- Carousel-->
+     <section carousel>
+      <div class="container-fluid">
+        <div class="row align-self-center">
+          <div class="col-md-8 offset-md-2">
+            <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+              </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item c-item active" data-bs-interval="5000">
+                    <img src="assets/images/carousel images/Roxoff.jpg" class="d-block w-100" alt="event roxoff festival on 04 may 25">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h2>SEARCHLIGH PROMOTIONS</h2>
+                      <p>Some representative placeholder content for the first slide.</p>
+                    </div>
+                  </div>
+                  <div class="carousel-item c-item" data-bs-interval="5000">
+                    <img src="assets/images/carousel images/after the smoke clears 13.12.24.jpeg" class="d-block w-100 c-img" alt="event after the smoke clears on 13 dec 24">
+                  </div>
+                  <div class="carousel-item c-item" data-bs-interval="5000">
+                    <img src="assets/images/carousel images/THOT.png" class="d-block w-100" alt="event the hot one two on 20 dec 24">
+                  </div>
+                  <div class="carousel-item c-item" data-bs-interval="5000">
+                    <img src="assets/images/carousel images/secreum.png" class="d-block w-100" alt="event sereum on 28 dec 24">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#hero-carousel" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#hero-carousel" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+            </div>
           </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#hero-carousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#hero-carousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-    </div>
+      </div>
+    </section>
 
     <p>Here is some junk text for editting at a later date!</p>
 
