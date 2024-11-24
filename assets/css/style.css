@@ -36,9 +36,17 @@ body {
 }
 
 .carousel-caption {
-    background-color: rgba(17, 237, 115, 0.3);
+    background-color: rgba(17, 237, 115, 0.5);
     color: black;
     font-family: "Protest Revolution", sans-serif;
+}
+
+.carousel { 
+    overflow: visible; padding-bottom: 6rem;
+}
+
+.carousel-control-next, .carousel-control-prev, .carousel-indicators { 
+    bottom: 4rem;
 }
 
 /*About page*/
