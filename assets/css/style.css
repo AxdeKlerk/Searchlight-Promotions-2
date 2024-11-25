@@ -40,9 +40,10 @@ body {
     filter: brightness (0.5);
 }
 
-.carousel-caption {
-
-}
+/*.carousel-caption {
+    display: flex;
+    flex: column;
+}*/
 
 
 /*About page*/
