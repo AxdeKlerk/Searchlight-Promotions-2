@@ -36,13 +36,14 @@ body {
     background-color: #11ED73;  
 }
 
-.carousel { 
-    overflow: visible; padding-bottom: 6rem;
+.c-img {
+    filter: brightness (0.5);
 }
 
-.carousel-control-next, .carousel-control-prev, .carousel-indicators { 
-    bottom: 2rem;
+.carousel-caption {
+
 }
+
 
 /*About page*/
 
