@@ -28,17 +28,12 @@ body {
     color: #11ED73;
 }
 
+
 /*Carousel*/
 .c-item {
     height: 100%;
-    padding: 10px;
+    padding: 1rem;
     background-color: #11ED73;  
-}
-
-.carousel-caption {
-    background-color: rgba(17, 237, 115, 0.5);
-    color: black;
-    font-family: "Protest Revolution", sans-serif;
 }
 
 .carousel { 
@@ -46,7 +41,7 @@ body {
 }
 
 .carousel-control-next, .carousel-control-prev, .carousel-indicators { 
-    bottom: 4rem;
+    bottom: 2rem;
 }
 
 /*About page*/
