@@ -48,11 +48,15 @@ body {
 
 
 /*About page*/
+
+
 .a-item {
     height: 100%;
     padding: 1rem;
+    margin-right: -20px;
     background-color: #11ED73;
 }
+
 
 /*Events page*/
 
