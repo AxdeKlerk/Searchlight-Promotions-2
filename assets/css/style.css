@@ -10,15 +10,12 @@ body {
 }
 
 /*Navbar*/
-.navbar-brand {
-    margin-right: -0.25rem;
-}
 
 #logo {
     font-family: "Protest Revolution", sans-serif;
     color: #11ED73;
     padding-top: 10px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .navbar-toggler-icon {
