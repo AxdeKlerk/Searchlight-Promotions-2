@@ -15,7 +15,7 @@ body {
     font-family: "Protest Revolution", sans-serif;
     color: #11ED73;
     padding-top: 10px;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .navbar-toggler-icon {
@@ -54,11 +54,6 @@ body {
     background-color: #11ED73;
 }
 
-.spade {
-    font-size: 1.1vw;
-}
-
-
 /*Events page*/
 
 /*Contact page*/
@@ -67,17 +62,15 @@ body {
 
 /* Extra small devices (phones, 600px and down) */
 
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 576px) {
 
- 
-  }
+
+    }
   
-   
   
   /* Small devices (portrait tablets and large phones, 600px and up) */
   
-  @media only screen and (min-width: 600px) {
-  
+  @media screen and (min-width: 576px) {
   
   }
   
@@ -85,25 +78,24 @@ body {
   
   /* Medium devices (landscape tablets, 768px and up) */
   
-  @media only screen and (min-width: 768px) {
-  
-  
+  @media screen and (min-width: 768px) {
+
+
   }
+
   
    
   
   /* Large devices (laptops/desktops, 992px and up) */
   
-  @media only screen and (min-width: 992px) {
-  
-  
-  }
+  @media screen and (min-width: 992px) {
+
+    }
   
    
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   
-  @media only screen and (min-width: 1200px) {
-  
+  @media screen and (min-width: 1200px) {
   
   }
