@@ -39,22 +39,20 @@ body {
     filter: brightness (0.5);
 }
 
-.carousel-caption {
+.c-caption {
     width: 75%;
     top: 20%;
+    left: 12.5%;
     text-align: center;
 }
-.c-caption {
-    margin-left: -10%;
-}
 
-.carousel-caption h3 {
+.c-caption h3 {
     font-weight: bold;
     font-size: 20px;
     text-align: center;
 }
 
-.carousel-caption p {
+.c-caption p {
     font-size: 5px;
     text-align: center;
 }
@@ -84,12 +82,6 @@ body {
         }
     .c-item {
         padding: 0.6rem;
-    }
-    .c-caption > h3 {
-        height: 10px;
-    }
-    .c-caption > p {
-        height: 10px;
     }
 }
   
@@ -143,20 +135,17 @@ body {
     .c-item {
         padding: 1.5rem;
     }
-    .carousel-caption {
-        width: 75%;
-        top: 30%;
+    .c-caption {
+        top: 25%;
     }
-    
-    .carousel-caption h3 {
+    .c-caption h3 {
         font-weight: bold;
+        font-size: 100px;
+    }
+    .c-caption p {
         font-size: 20px;
     }
-    
-    .carousel-caption p {
-        font-size: 15px;
-    }
-    }
+ }
   
    
   
@@ -177,7 +166,9 @@ body {
     .c-item {
         padding: 2rem;
     }
-  
+    .c-caption {
+        top: 30%;
+    }
   }
 
     /* Extra extra large devices (large laptops and desktops, 2500px and up) */
