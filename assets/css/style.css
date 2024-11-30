@@ -11,6 +11,7 @@ body {
 
 .page-title {
     color: #11ED73;
+    font-size: 12px;
 }
 
 /*Navbar*/
@@ -19,7 +20,7 @@ body {
     font-family: "Protest Revolution", sans-serif;
     color: #11ED73;
     padding-top: 10px;
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .navbar-toggler-icon {
@@ -77,15 +78,37 @@ body {
 
 /*Media Queries*/
 
-/* Small & medium mobile devices (phones, 375px and up) */
+/* Extra small mobile devices (phones, 320px and below) */
 
 @media screen and (max-width: 375px) {
     #logo {
-        font-size: 17px;
+        font-size: 15px;
     }
     #nav-img {
-        height: 1.75rem;
-        width: 1.75rem;
+        height: 1.5rem;
+        width: 1.5rem;
+    }
+    .c-caption {
+        top: 15%;
+    }
+    .c-caption h3 {
+        font-size: 20px;
+    }
+    .c-caption p {
+        font-size: 15px;
+    }
+
+}
+
+/* Small & medium mobile devices (phones, 375px and up) */
+
+@media screen and (min-width: 375px) {
+    #logo {
+        font-size: 18px;
+    }
+    #nav-img {
+        height: 1.7rem;
+        width: 1.7rem;
     }
     .c-caption {
         top: 15%;
@@ -144,6 +167,9 @@ body {
         height: 3rem;
         width: 3rem;
     }
+    .page-title {
+        font-size: 16px;
+    }
     .c-caption {
         top: 25%;
     }
@@ -167,8 +193,11 @@ body {
         height: 4rem;
         width: 4rem;
     }
-    .nav-item, h6 {
-        font-size: 1.35rem;
+    .nav-item {
+        font-size: 1.3rem;
+    }
+    .page-title {
+        font-size: 20px;
     }
     .c-item {
         padding: 1rem;
@@ -195,8 +224,11 @@ body {
         height: 5rem;
         width: 5rem;
     }
-    .nav-item h6 {
+    .nav-item {
         font-size: 1.5rem;
+    }
+    .page-title {
+        font-size: 30px;
     }
     .c-item {
         padding: 1.1rem;
@@ -223,8 +255,11 @@ body {
             height: 5.5rem;
             width: 5.5rem;
     }
-    .nav-item, h6 {
+    .nav-item {
             font-size: 3rem;
+    }
+    .page-title {
+        font-size: 40px;
     }
     .c-item {
             padding: 1.5rem;
