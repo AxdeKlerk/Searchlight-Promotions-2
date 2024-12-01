@@ -36,7 +36,7 @@ body {
 /*Carousel*/
 
 .c-item {
-    height: 100%
+    max-height: 100%
     padding: 0.8rem;
     background-color: #11ED73;  
 }
@@ -84,6 +84,10 @@ body {
 }
 .about-parg {
     margin-left: 10px;
+}
+.cta {
+    padding: 20px;
+    margin-bottom: 10px;
 }
 
 /*Events page*/
