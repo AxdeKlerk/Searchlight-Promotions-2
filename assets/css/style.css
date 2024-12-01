@@ -7,6 +7,7 @@ body {
     font-family: "Geist Mono", monospace;
     font-size: 12px;
     color:white;
+    height: 100vh;
 }
 
 .page-title {
