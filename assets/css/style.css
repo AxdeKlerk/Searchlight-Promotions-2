@@ -76,7 +76,7 @@ body {
     padding: 1rem;
     margin-right: -20px;
     background-color: #11ED73;
-    font-size: 30px;
+    font-size: 18px;
 }
 
 .about-img-cap {
@@ -103,6 +103,9 @@ body {
         height: 1.5rem;
         width: 1.5rem;
     }
+    .c-item {
+        padding: 0.4rem;
+    }
     .c-caption {
         top: 15%;
     }
@@ -125,6 +128,9 @@ body {
     #nav-img {
         height: 1.7rem;
         width: 1.7rem;
+    }
+    .c-item {
+        padding: 0.5rem;
     }
     .c-caption {
         top: 15%;
@@ -200,9 +206,6 @@ body {
     }
     .c-caption p {
         font-size: 25px;
-    }
-    .a-item {
-        font-size: 1.1rem;
     }
     
 }
