@@ -72,8 +72,8 @@ body {
 /*About page*/
 
 .a-item {
-    height: 50%;
-    padding: 1rem;
+    height: 100%;
+    padding: 0.8rem;
     margin-right: -20px;
     background-color: #11ED73;
     font-size: 12px;
@@ -115,6 +115,9 @@ body {
     .c-caption p {
         font-size: 15px;
     }
+    .a-item {
+        padding: 0.4rem;
+    }
 
 }
 
@@ -141,6 +144,9 @@ body {
     .c-caption p {
         font-size: 15px;
     }
+    .a-item {
+        padding: 0.5rem;
+    }
 
 }
 
@@ -164,6 +170,9 @@ body {
     .c-caption p {
         font-size: 18px;
     }
+    .a-item {
+        padding: 0.6rem;
+    }
 }
   
   /* Small devices (portrait tablets and large phones, 576px and up) */
@@ -176,6 +185,9 @@ body {
     .c-item {
         padding: 0.7rem;
      }
+    .a-item {
+        padding: 0.7rem;
+    }
 }
   
   /* Medium devices (landscape tablets, 768px and up) */
@@ -206,6 +218,9 @@ body {
     }
     .c-caption p {
         font-size: 25px;
+    }
+    .a-item {
+        padding: 0.8rem;
     }
     
 }
@@ -248,6 +263,7 @@ body {
     }
     .a-item {
         font-size: 1.2rem;
+        padding: 1rem;
     }
 }
   
@@ -261,9 +277,6 @@ body {
     #logo {
         font-size: 50px;
     }
-    .c-item {
-        padding: 1rem;
-     }
     #nav-img {
         height: 5rem;
         width: 5rem;
@@ -323,5 +336,6 @@ body {
     }
     .a-item {
         font-size: 2.5rem;
+        padding: 1.2rem;
     }
 }    
