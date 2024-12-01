@@ -68,7 +68,6 @@ body {
     color: #11ED73;
 }
 
-
 /*About page*/
 
 .a-item {
@@ -76,7 +75,7 @@ body {
     padding: 1rem;
     margin-right: -20px;
     background-color: #11ED73;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 .about-img-cap {
