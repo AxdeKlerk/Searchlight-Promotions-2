@@ -80,6 +80,10 @@ body {
     font-size: 12px;
 }
 
+.a-img {
+    border-radius: 50%;
+}
+
 .about-img-cap {
     font-size: 12px;
 }
