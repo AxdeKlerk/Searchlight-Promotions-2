@@ -90,6 +90,10 @@ body {
 
 /*Contact page*/
 
+.f-item {
+    color: #11ED73;
+}
+
 /*Media Queries*/
 
 /* Extra small mobile devices (phones, 375px and below) */
