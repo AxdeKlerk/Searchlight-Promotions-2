@@ -5,7 +5,7 @@
 body {
     background-color: black;
     font-family: "Geist Mono", monospace;
-    font-size: 12px;
+    font-size: 14px;
     color:white;
     height: 100vh;
     margin-left: 10px;
@@ -67,10 +67,10 @@ body {
     text-align: center;
 }
 
-.cta-btn {
+.btn, .cta-btn {
     border-color: #11ED73;
-    margin-top: 10px;
     color: #11ED73;
+    height: 25px;
 }
 
 .welcome-parg {
@@ -83,7 +83,7 @@ body {
     padding: 0.8rem;
     margin-right: -20px;
     background-color: #11ED73;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .a-img {
@@ -94,9 +94,10 @@ body {
     font-size: 12px;
 }
 
-.cta {
+.cta-btn {
     padding: 20px;
     margin-bottom: 10px;
+    font-size: 14px;
 }
 
 /*Events page*/
@@ -271,6 +272,11 @@ body {
         font-size: 1.2rem;
         padding: 1rem;
     }
+    .cta-btn {
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        font-size: 1.5rem;
+    }
 }
   
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -278,7 +284,7 @@ body {
 @media screen and (min-width: 1200px) {
 
     Body {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
     #logo {
         font-size: 50px;
@@ -308,7 +314,11 @@ body {
     .a-item {
         font-size: 1.5rem;
     }
-
+    .cta-btn {
+        padding: 2rem;
+        margin-bottom: 2rem;
+        font-size: 2rem;
+    }
 }
 
 /* Extra extra large devices (large laptops and desktops, 2500px and up) */
