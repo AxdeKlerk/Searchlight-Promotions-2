@@ -67,23 +67,27 @@ body {
     text-align: center;
 }
 
-.btn, .cta-btn {
-    border-color: #11ED73;
-    color: #11ED73;
-    height: 25px;
-}
-
 .welcome-parg {
     margin-bottom: 20px;
 }
-/*About page*/
 
+/*Call to action button*/
+.cta-btn {
+    color: #11ED73;
+    border-color: #11ED73;
+    border-block-width: 5px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/*About page*/
 .a-item {
     height: 100%;
     padding: 0.8rem;
     margin-right: -20px;
     background-color: #11ED73;
     font-size: 14px;
+    color: black;
 }
 
 .a-img {
@@ -94,11 +98,6 @@ body {
     font-size: 12px;
 }
 
-.cta-btn {
-    padding: 20px;
-    margin-bottom: 10px;
-    font-size: 14px;
-}
 
 /*Events page*/
 
@@ -272,11 +271,6 @@ body {
         font-size: 1.2rem;
         padding: 1rem;
     }
-    .cta-btn {
-        padding: 1.5rem;
-        margin-bottom: 1.5rem;
-        font-size: 1.5rem;
-    }
 }
   
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -313,11 +307,6 @@ body {
     }
     .a-item {
         font-size: 1.5rem;
-    }
-    .cta-btn {
-        padding: 2rem;
-        margin-bottom: 2rem;
-        font-size: 2rem;
     }
 }
 
