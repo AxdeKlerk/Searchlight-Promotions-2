@@ -51,14 +51,13 @@ body {
 
 .c-caption {
     width: 75%;
-    bottom: 25%;
     left: 12.5%;
     text-align: center;
 }
 
 .c-caption h3 {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -120,14 +119,10 @@ body {
     .a-item {
         padding: 0.5rem;
     }
-    .c-caption {
-        bottom: 0rem;
-    }
 }
 
 /*2 Small devices (portrait tablets and large phones, 576px and up) */
     @media screen and (min-width: 576px) {
-
     #logo {
         font-size: 35px;
     }
@@ -138,9 +133,6 @@ body {
     .c-item {
         padding: 0.7rem;
      }
-    .c-caption {
-        bottom: 1rem;
-    }
     .a-item {
         padding: 0.7rem;
     }
@@ -148,9 +140,6 @@ body {
   
 /*3 Medium devices (landscape tablets, 768px and up) */
     @media screen and (min-width: 768px) {
-    body {
-        font-size: 1rem;
-    }
     #logo {
         font-size: 40px;
     }
