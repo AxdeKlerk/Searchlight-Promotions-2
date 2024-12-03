@@ -109,83 +109,33 @@ body {
 
 /*Media Queries*/
 
-/* Extra small mobile devices (phones, 375px and below) */
-
-@media screen and (max-width: 375px) {
-
+/*1 Small mobile devices (phones, 576px and below) */
+    @media screen and (max-width: 576px) {
     #logo {
-        font-size: 18px;
-    }
-    .c-item {
-        padding: 0.4rem;
-    }
-    .c-caption {
-        top: 15%;
-    }
-    .c-caption h3 {
-        font-size: 20px;
-    }
-    .c-caption p {
-        font-size: 15px;
-    }
-    .a-item {
-        padding: 0.4rem;
-    }
-
-}
-
-/* Small & medium mobile devices (phones, 375px and up) */
-
-@media screen and (min-width: 375px) {
-
-    #logo {
-        font-size: 20px;
-    }
-    .c-item {
-        padding: 0.5rem;
-    }
-    .c-caption {
-        top: 15%;
-    }
-    .c-caption h3 {
-        font-size: 20px;
-    }
-    .c-caption p {
-        font-size: 15px;
-    }
-    .a-item {
-        padding: 0.5rem;
-    }
-
-}
-
-/* Large mobile devices (phones, 425px and up) */
-
-@media screen and (min-width: 425px) {
-
-    #logo {
-        font-size: 25px;
-        }
-    .c-item {
-        padding: 0.6rem;
-    }
-    .c-caption h3 {
         font-size: 30px;
     }
+    .c-item {
+        padding: 0.5rem;
+    }
+    .c-caption {
+        top: 15%;
+    }
+    .c-caption h3 {
+        font-size: 20px;
+    }
     .c-caption p {
-        font-size: 18px;
+        font-size: 15px;
     }
     .a-item {
-        padding: 0.6rem;
+        padding: 0.5rem;
     }
 }
-  
-  /* Small devices (portrait tablets and large phones, 576px and up) */
-  
-  @media screen and (min-width: 576px) {
+
+/*2 Small devices (portrait tablets and large phones, 576px and up) */
+    @media screen and (min-width: 576px) {
 
     #logo {
-        font-size: 20px;
+        font-size: 35px;
     }
     .nav-img {
         height: 50px;
@@ -199,15 +149,13 @@ body {
     }
 }
   
-  /* Medium devices (landscape tablets, 768px and up) */
-  
-  @media screen and (min-width: 768px) {
-
+/*3 Medium devices (landscape tablets, 768px and up) */
+    @media screen and (min-width: 768px) {
     body {
         font-size: 1rem;
     }
     #logo {
-        font-size: 30px;
+        font-size: 40px;
     }
     .nav-img {
         height: 45px;
@@ -231,19 +179,16 @@ body {
     .a-item {
         padding: 0.8rem;
     }
-    
 }
 
-  /* Large devices (laptops/desktops, 992px and up) */
-  
-  @media screen and (min-width: 992px) {
-
+/*4 Large devices (laptops/desktops, 992px and up) */
+    @media screen and (min-width: 992px) {
     body {
         font-size: 1.1rem;
     }
 
     #logo {
-        font-size: 40px;
+        font-size: 45px;
     }
     .nav-img {
         height: 60px;
@@ -272,10 +217,9 @@ body {
         padding: 1rem;
     }
 }
-  
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-  
-@media screen and (min-width: 1200px) {
+
+/*5 Extra large devices (large laptops and desktops, 1200px and up)*/
+    @media screen and (min-width: 1200px) {
 
     Body {
         font-size: 1.5rem;
@@ -297,7 +241,7 @@ body {
         padding: 1rem;
     }
     .c-caption {
-        top: 35%;
+        top: 30%;
     }
     .c-caption h3 {
         font-size: 50px;
@@ -310,12 +254,10 @@ body {
     }
 }
 
-/* Extra extra large devices (large laptops and desktops, 2500px and up) */
-  
-@media screen and (min-width: 2500px) {
-
+/*6 Extra extra large devices (large laptops and desktops, 1200px and up)*/ 
+    @media screen and (min-width: 1200px) {
     body {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     #logo {
             font-size: 60px;
@@ -334,16 +276,16 @@ body {
         padding: 1.2rem;
     }
     .c-caption {
-        top: 40%;
+        top: 30%;
     }
     .c-caption h3 {
-        font-size: 80px;
+        font-size: 60px;
     }
     .c-caption p {
-        font-size: 50px;
+        font-size: 40px;
     }
     .a-item {
         font-size: 2.5rem;
         padding: 1.2rem;
     }
-}    
+}   
