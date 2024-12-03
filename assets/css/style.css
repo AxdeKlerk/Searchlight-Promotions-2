@@ -13,7 +13,7 @@ body {
 
 .page-title {
     color: #11ED73;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 /*Navbar*/
@@ -51,7 +51,7 @@ body {
 
 .c-caption {
     width: 75%;
-    top: 20%;
+    bottom: 25%;
     left: 12.5%;
     text-align: center;
 }
@@ -117,17 +117,11 @@ body {
     .c-item {
         padding: 0.5rem;
     }
-    .c-caption {
-        top: 15%;
-    }
-    .c-caption h3 {
-        font-size: 20px;
-    }
-    .c-caption p {
-        font-size: 15px;
-    }
     .a-item {
         padding: 0.5rem;
+    }
+    .c-caption {
+        bottom: 0rem;
     }
 }
 
@@ -144,6 +138,9 @@ body {
     .c-item {
         padding: 0.7rem;
      }
+    .c-caption {
+        bottom: 1rem;
+    }
     .a-item {
         padding: 0.7rem;
     }
@@ -165,16 +162,13 @@ body {
         font-size: 16px;
     }
     .c-item {
-    padding: 0.8rem;
-    }
-    .c-caption {
-        top: 25%;
+        padding: 0.8rem;
     }
     .c-caption h3 {
-        font-size: 30px;
+        font-size: 1rem;
     }
     .c-caption p {
-        font-size: 25px;
+        font-size: 1rem;
     }
     .a-item {
         padding: 0.8rem;
@@ -201,16 +195,13 @@ body {
         font-size: 1.3rem;
     }
     .page-title {
-        font-size: 25px;
-    }
-    .c-caption {
-        top: 30%;
+        font-size: 1.2rem;
     }
     .c-caption h3 {
-        font-size: 40px;
+        font-size: 1.2rem;
     }
     .c-caption p {
-        font-size: 30px;
+        font-size: 1.2rem;
     }
     .a-item {
         font-size: 1.2rem;
@@ -240,14 +231,11 @@ body {
     .c-item {
         padding: 1rem;
     }
-    .c-caption {
-        top: 30%;
-    }
     .c-caption h3 {
-        font-size: 50px;
+        font-size: 1.5rem;
     }
     .c-caption p {
-        font-size: 30px;
+        font-size: 1.5rem;
     }
     .a-item {
         font-size: 1.5rem;
@@ -269,20 +257,14 @@ body {
     .nav-item {
             font-size: 3rem;
     }
-    .page-title {
-        font-size: 45px;
-    }
     .c-item {
         padding: 1.2rem;
     }
-    .c-caption {
-        top: 30%;
-    }
     .c-caption h3 {
-        font-size: 60px;
+        font-size: 1.6rem;
     }
     .c-caption p {
-        font-size: 40px;
+        font-size: 1.6rem;
     }
     .a-item {
         font-size: 2.5rem;
