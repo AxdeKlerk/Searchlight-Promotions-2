@@ -146,11 +146,11 @@ body {
         padding: 0.5rem;
     }
     .f-img {
-        height: 2rem;
+        height: 1.8rem;
     }
     .f-item
     #logo {
-    font-size: 1rem;
+    font-size: 1.3rem;
     }
 }
 
@@ -185,6 +185,10 @@ body {
     #logo {
     font-size: 2rem;
     }
+    .f-item
+    #logo {
+        font-size: 1.6rem;
+    }
 }
   
 /*3 Medium devices (landscape tablets, 768px and up) */
@@ -216,6 +220,10 @@ body {
     }
     .f-img {
         height: 3.2rem;
+    }
+    .f-item
+    #logo {
+        font-size: 1.7rem;
     }
 }
 
@@ -259,6 +267,10 @@ body {
     .f-img {
         height: 3.2rem;
     }
+    .f-item
+    #logo {
+        font-size: 1.8rem;
+    }
 }
 
 /*5 Extra large devices (large laptops and desktops, 1200px and up)*/
@@ -296,6 +308,10 @@ body {
     .f-img {
         height: 3.3rem;
     }
+    .f-item
+    #logo {
+        font-size: 1.9rem;
+    }
 }
 
 /*6 Extra extra large devices (large laptops and desktops, 1200px and up)*/ 
@@ -304,7 +320,7 @@ body {
         font-size: 1.3rem;
     }
     #logo {
-            font-size: 3rem;
+        font-size: 3rem;
     }
     .navbar-brand
     .nav-img {
@@ -330,5 +346,9 @@ body {
     }
     .f-img {
         height: 3.4rem;
+    }
+    .f-item
+    #logo {
+        font-size: 2rem;
     }
 }   
