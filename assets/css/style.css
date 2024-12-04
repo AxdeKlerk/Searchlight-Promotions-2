@@ -91,6 +91,10 @@ body {
 }
 
 /*Events page*/
+.e-item {
+    background-color: black;
+    color: #11ED73;
+}
 
 /*Contact page*/
 .cp-item {
