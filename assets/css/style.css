@@ -95,7 +95,7 @@ body {
     background-color: black;
     color: #11ED73;
 }
-.e-item p {
+.e-item ul {
     font-size: 12px;
     color: white;
 }
