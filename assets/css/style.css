@@ -113,7 +113,6 @@ body {
 }
 .f-item
 #logo {
-    font-size: 1rem;
     text-decoration: none;
 }
 .f-img {
@@ -146,17 +145,12 @@ body {
         font-size: 1.2rem;
         padding: 0.5rem;
     }
-    .footer-brand
     .f-img {
         height: 2rem;
     }
     .f-item
     #logo {
     font-size: 1rem;
-    }
-    .f-item
-    .cta-btn {
-        font-size: 0.5rem;
     }
 }
 
@@ -184,7 +178,6 @@ body {
         font-size: 1.3rem;
         padding: 0.7rem;
     }
-    .footer-brand
     .f-img {
         height: 3.1rem;
     }
@@ -221,7 +214,6 @@ body {
         font-size: 1.4rem;
         padding: 0.8rem;
     }
-    .footer-brand
     .f-img {
         height: 3.2rem;
     }
@@ -264,7 +256,6 @@ body {
         font-size: 1.5rem;
         padding: 1rem;
     }
-    .footer-brand
     .f-img {
         height: 3.2rem;
     }
@@ -302,7 +293,6 @@ body {
     .a-item {
         font-size: 1.6rem;
     }
-    .footer-brand
     .f-img {
         height: 3.3rem;
     }
@@ -338,7 +328,6 @@ body {
         font-size: 1.7rem;
         padding: 1.2rem;
     }
-    .footer-brand
     .f-img {
         height: 3.4rem;
     }
