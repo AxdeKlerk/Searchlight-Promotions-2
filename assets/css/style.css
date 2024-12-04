@@ -96,6 +96,12 @@ body {
 .cp-item {
     color: #11ED73;
 }
+.cta-btn2 {
+    font-size: 0.6rem;
+    border-color: #11ED73;
+    border-block-width: 0.2rem;
+    color: #11ED73;
+}
 
 /*Footer*/
 .f-item {
@@ -114,13 +120,6 @@ body {
 .f-img {
     height: 2rem;
 }
-.f-item
-.cta-btn {
-    font-size: 0.6rem;
-    border-color: #11ED73;
-    border-block-width: 0.2rem;
-}
-
 
 /*Media Queries*/
 
@@ -147,6 +146,18 @@ body {
     .a-item {
         font-size: 1.2rem;
         padding: 0.5rem;
+    }
+    .footer-brand
+    .f-img {
+        height: 2rem;
+    }
+    .f-item
+    #logo {
+    font-size: 1rem;
+    }
+    .f-item
+    .cta-btn {
+        font-size: 0.5rem;
     }
 }
 
@@ -177,6 +188,10 @@ body {
     .footer-brand
     .f-img {
         height: 3.1rem;
+    }
+    .f-item
+    #logo {
+    font-size: 2rem;
     }
 }
   
