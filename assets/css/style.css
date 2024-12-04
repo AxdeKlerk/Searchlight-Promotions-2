@@ -95,6 +95,9 @@ body {
     background-color: black;
     color: #11ED73;
 }
+.e-item p {
+    font-size: 12px;
+}
 
 /*Contact page*/
 .cp-item {
