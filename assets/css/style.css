@@ -136,6 +136,12 @@ body {
     margin-top: 5rem;
 }
 
+/*404 error message*/
+.error-item {
+    color: #11ED73;
+    margin-top: 5rem;
+}
+
 /*Media Queries*/
 
 /*1 Small mobile devices (phones, 576px and below) */
