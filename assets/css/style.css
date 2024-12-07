@@ -163,11 +163,11 @@ body {
         padding: 0.5rem;
     }
     .f-img {
-        height: 1.8rem;
+        height: 2.9rem;
     }
     .f-item
     #logo {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     }
 }
 
@@ -196,11 +196,7 @@ body {
         padding: 0.7rem;
     }
     .f-img {
-        height: 3.1rem;
-    }
-    .f-item
-    #logo {
-    font-size: 2rem;
+        height: 3rem;
     }
     .f-item
     #logo {
@@ -236,7 +232,7 @@ body {
         padding: 0.8rem;
     }
     .f-img {
-        height: 3.2rem;
+        height: 3.1rem;
     }
     .f-item
     #logo {
