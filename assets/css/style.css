@@ -23,6 +23,9 @@ body {
     font-size: 30px;
     text-decoration: none;
 }
+.header-brand {
+    margin-top: 2rem;
+}
 .header-img {
     height: 4rem;
     width: auto;
@@ -137,12 +140,11 @@ body {
 /*1 Small mobile devices (phones, 576px and below) */
     @media screen and (max-width: 576px) {
     #logo {
-        font-size: 1.3rem;
+        font-size: 1.7rem;
     }
-    .navbar-brand
-    .nav-img {
-        height: 2.5rem;
-        width: 2.5rem;
+    .header-img {
+        height: 2.8rem;
+        width: 2.8rem;
     }
     .carousel-inner
     .c-item {
@@ -172,8 +174,7 @@ body {
     #logo {
         font-size: 2.3rem;;
     }
-    .navbar-brand
-    .nav-img {
+    .header-img {
         height: 3.9rem;
         width: 3.9rem;
     }
@@ -205,8 +206,7 @@ body {
     #logo {
         font-size: 2.7rem;;
     }
-    .navbar-brand
-    .nav-img {
+    .header-img {
         height: 4.2rem;
         width: 4.2rem;
     }
@@ -245,8 +245,7 @@ body {
     #logo {
         font-size: 2.8rem;;
     }
-    .navbar-brand
-    .nav-img {
+    .header-img {
         height: 4.3rem;
         width: 4.3rem;
     }
@@ -290,8 +289,7 @@ body {
     #logo {
         font-size: 2.9rem;
     }
-    .navbar-brand
-    .nav-img {
+    .header-img {
         height: 4.4rem;
         width: 4.4rem;
     }
@@ -331,8 +329,7 @@ body {
     #logo {
         font-size: 3rem;
     }
-    .navbar-brand
-    .nav-img {
+    .header-img {
         height: 4.5rem;
         width: 4.5rem;
     }
