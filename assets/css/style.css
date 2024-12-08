@@ -11,7 +11,7 @@ body {
     margin-left: 10px;
 }
 .page-title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: #11ED73;
 }
 
@@ -43,8 +43,9 @@ body {
     left: 12.5%;
     text-align: center;
     margin-bottom: 0;
+    padding-bottom: 0;
 }
-.c-caption h3 {
+.c-caption h2 {
     font-weight: bold;
     font-size: 20px;
     text-align: center;
@@ -116,7 +117,7 @@ body {
     color: #11ED73;
 }
 .f-item
-#logo2 {
+#logo {
     text-decoration: none;
 }
 .f-img {
@@ -140,18 +141,14 @@ body {
 /*1 Small mobile devices (phones, 576px and below) */
     @media screen and (max-width: 576px) {
     #logo {
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     .header-img {
         height: 2.8rem;
         width: 2.8rem;
     }
-    .carousel-inner
     .c-item {
         padding: 0.7rem;
-    }
-    .c-caption h2 {
-        font-size: 1.2rem;
     }
     .c-caption p {
         font-size: 1rem;
@@ -178,12 +175,11 @@ body {
         height: 3.9rem;
         width: 3.9rem;
     }
-    .carousel-inner
+    .page-title {
+        font-size: 1.5rem;
+    }
     .c-item {
         padding: 0.8rem;
-    }
-    .c-caption h2 {
-        font-size: 1.5rem;
     }
     .c-caption p {
         font-size: 1.1rem;
@@ -211,17 +207,13 @@ body {
         width: 4.2rem;
     }
     .page-title {
-        font-size: 16px;
+        font-size: 1.6rem;
     }
     .c-item {
         padding: 0.9rem;
     }
-    .carousel-inner
-    .c-caption h2 {
-        font-size: 1.6rem;
-    }
     .c-caption p {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
     .a-item {
         font-size: 1.4rem;
@@ -249,21 +241,17 @@ body {
         height: 4.3rem;
         width: 4.3rem;
     }
-    .carousel-inner
     .c-item {
         padding: 0.9rem;
      }
-    .nav-item {
+    .header-item {
         font-size: 1.3rem;
     }
     .page-title {
-        font-size: 1.2rem;
+        font-size: 1.7rem;
     }
     .c-item {
         padding: 1rem;
-    }
-    .c-caption h2 {
-        font-size: 1.8rem;
     }
     .c-caption p {
         font-size: 1.4rem;
@@ -293,18 +281,14 @@ body {
         height: 4.4rem;
         width: 4.4rem;
     }
-    .nav-item {
+    .header-item {
         font-size: 1.5rem;
     }
     .page-title {
-        font-size: 30px;
+        font-size: 1.8rem;
     }
-    .carousel-inner
     .c-item {
         padding: 1.1rem;
-    }
-    .c-caption h2 {
-        font-size: 1.9rem;
     }
     .c-caption p {
         font-size: 1.5rem;
@@ -333,15 +317,14 @@ body {
         height: 4.5rem;
         width: 4.5rem;
     }
-    .nav-item {
+    .header-item {
             font-size: 3rem;
     }
-    .carousel-inner
+    .page-title {
+        font-size: 1.9rem;
+    }
     .c-item {
         padding: 1.2rem;
-    }
-    .c-caption h3 {
-        font-size: 2rem;
     }
     .c-caption p {
         font-size: 1.6rem;
