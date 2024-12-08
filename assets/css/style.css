@@ -32,7 +32,6 @@ body {
 }
 
 /*Carousel*/
-.carousel-inner
 .c-item {
     max-height: 100%;
     padding: 0.8rem;
@@ -45,14 +44,8 @@ body {
     margin-bottom: 0;
     padding-bottom: 0;
 }
-.c-caption h2 {
-    font-weight: bold;
-    font-size: 20px;
-    text-align: center;
-}
 .c-caption p {
     font-size: 12px;
-    text-align: center;
 }
 .welcome-parg {
     margin-bottom: 20px;
@@ -116,8 +109,11 @@ body {
     background-color: black;
     color: #11ED73;
 }
-.f-item
-#logo {
+#logo2 {
+    font-family: "Protest Revolution", sans-serif;
+    color: #11ED73;
+    padding-top: 10px;
+    font-size: 30px;
     text-decoration: none;
 }
 .f-img {
@@ -160,8 +156,7 @@ body {
     .f-img {
         height: 2.9rem;
     }
-    .f-item
-    #logo {
+    #logo2 {
     font-size: 1.5rem;
     }
 }
@@ -191,8 +186,7 @@ body {
     .f-img {
         height: 3rem;
     }
-    .f-item
-    #logo {
+    #logo2 {
         font-size: 1.6rem;
     }
 }
@@ -213,7 +207,7 @@ body {
         padding: 0.9rem;
     }
     .c-caption p {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
     }
     .a-item {
         font-size: 1.4rem;
@@ -222,8 +216,7 @@ body {
     .f-img {
         height: 3.1rem;
     }
-    .f-item
-    #logo {
+    #logo2 {
         font-size: 1.7rem;
     }
 }
@@ -233,7 +226,6 @@ body {
     body {
         font-size: 1.1rem;
     }
-
     #logo {
         font-size: 2.8rem;;
     }
@@ -243,7 +235,7 @@ body {
     }
     .c-item {
         padding: 0.9rem;
-     }
+    }
     .header-item {
         font-size: 1.3rem;
     }
@@ -263,8 +255,7 @@ body {
     .f-img {
         height: 3.2rem;
     }
-    .f-item
-    #logo {
+    #logo2 {
         font-size: 1.8rem;
     }
 }
@@ -291,7 +282,7 @@ body {
         padding: 1.1rem;
     }
     .c-caption p {
-        font-size: 1.5rem;
+        font-size: 1.7rem;
     }
     .a-item {
         font-size: 1.6rem;
@@ -299,8 +290,7 @@ body {
     .f-img {
         height: 3.3rem;
     }
-    .f-item
-    #logo {
+    #logo2 {
         font-size: 1.9rem;
     }
 }
@@ -327,7 +317,7 @@ body {
         padding: 1.2rem;
     }
     .c-caption p {
-        font-size: 1.6rem;
+        font-size: 1.9rem;
     }
     .a-item {
         font-size: 1.7rem;
@@ -336,8 +326,7 @@ body {
     .f-img {
         height: 3.4rem;
     }
-    .f-item
-    #logo {
+    #logo2 {
         font-size: 2rem;
     }
 }   
