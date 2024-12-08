@@ -15,15 +15,15 @@ body {
     font-size: 14px;
 }
 
-/*Navbar*/
+/*Header*/
 #logo {
     font-family: "Protest Revolution", sans-serif;
     color: #11ED73;
     padding-top: 10px;
     font-size: 30px;
+    text-decoration: none;
 }
-.navbar-brand
-.nav-img {
+.header-img {
     height: 4rem;
     width: auto;
 }
