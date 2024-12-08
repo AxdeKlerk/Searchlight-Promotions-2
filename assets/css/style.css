@@ -11,8 +11,8 @@ body {
     margin-left: 10px;
 }
 .page-title {
-    color: #11ED73;
     font-size: 14px;
+    color: #11ED73;
 }
 
 /*Header*/
@@ -24,7 +24,7 @@ body {
     text-decoration: none;
 }
 .header-brand {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 .header-img {
     height: 4rem;
