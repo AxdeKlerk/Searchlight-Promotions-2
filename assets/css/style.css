@@ -11,7 +11,7 @@ body {
     margin-left: 10px;
 }
 .page-title {
-    font-size: 14px;
+    font-size: 1.5rem;
     color: #11ED73;
 }
 
@@ -150,11 +150,11 @@ body {
     .c-item {
         padding: 0.7rem;
     }
-    .c-caption h3 {
-        font-size: 1.3rem;
+    .c-caption h2 {
+        font-size: 1.2rem;
     }
     .c-caption p {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
     .a-item {
         font-size: 1.2rem;
@@ -182,11 +182,11 @@ body {
     .c-item {
         padding: 0.8rem;
     }
-    .c-caption h3 {
-        font-size: 1.6rem;
+    .c-caption h2 {
+        font-size: 1.5rem;
     }
     .c-caption p {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
     .a-item {
         font-size: 1.3rem;
@@ -217,11 +217,11 @@ body {
         padding: 0.9rem;
     }
     .carousel-inner
-    .c-caption h3 {
-        font-size: 1.7rem;
+    .c-caption h2 {
+        font-size: 1.6rem;
     }
     .c-caption p {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     .a-item {
         font-size: 1.4rem;
@@ -262,7 +262,7 @@ body {
     .c-item {
         padding: 1rem;
     }
-    .c-caption h3 {
+    .c-caption h2 {
         font-size: 1.8rem;
     }
     .c-caption p {
@@ -303,7 +303,7 @@ body {
     .c-item {
         padding: 1.1rem;
     }
-    .c-caption h3 {
+    .c-caption h2 {
         font-size: 1.9rem;
     }
     .c-caption p {
