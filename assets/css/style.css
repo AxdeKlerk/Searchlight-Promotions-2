@@ -135,7 +135,7 @@ h3 {
 /*Media Queries*/
 
 /*1 Small mobile devices (phones, 576px and below) */
-    @media screen and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     #logo {
         font-size: 1.5rem;
     }
@@ -162,7 +162,7 @@ h3 {
 }
 
 /*2 Small devices (portrait tablets and large phones, 576px and up) */
-    @media screen and (min-width: 576px) {
+@media screen and (min-width: 576px) {
     #logo {
         font-size: 2.3rem;;
     }
@@ -192,7 +192,7 @@ h3 {
 }
   
 /*3 Medium devices (landscape tablets, 768px and up) */
-    @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
     #logo {
         font-size: 2.7rem;;
     }
@@ -222,7 +222,7 @@ h3 {
 }
 
 /*4 Large devices (laptops/desktops, 992px and up) */
-    @media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) {
     body {
         font-size: 1.1rem;
     }
@@ -261,7 +261,7 @@ h3 {
 }
 
 /*5 Extra large devices (large laptops and desktops, 1200px and up)*/
-    @media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
     Body {
         font-size: 1.2rem;
     }
@@ -296,7 +296,7 @@ h3 {
 }
 
 /*6 Extra extra large devices (large laptops and desktops, 1200px and up)*/ 
-    @media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
     body {
         font-size: 1.3rem;
     }
