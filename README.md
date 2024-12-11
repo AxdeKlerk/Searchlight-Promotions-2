@@ -120,14 +120,14 @@ There was some deviation from the original wireframes as the project developed. 
 ![events-2](https://github.com/user-attachments/assets/0a28d58c-1092-4a99-90df-acd84461ec1f)
 
  ### 9.	Contact
- Points the user directly to the section of the website where they can contact the owners of the business
+ ----
 
  ### 10.	Call to Action Buttons (cta-btns)
  Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
  
  There are two different cta-btns:
   1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
-  2.	Eight cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
+  2.	Eight smaller cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
      ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
      ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
 
@@ -154,10 +154,21 @@ There was some deviation from the original wireframes as the project developed. 
  ### 15.	Footer 
  The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
 
- ### 10.	Social Media 
+ ### 16.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other platforms are used. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base.
 
  As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
+
+ ### 17. 404 Error Message
+ ---- 
+
+## Future Features
+When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
+The following list of items will be used for the final product:
+ 1. Unique URL - for distribution and marketing pruposes
+ 2. Navbar - it was agreed that a navbar would be useful for navigation purposes to enable users to find the different areas of the website with ease and to remove a sense of "over load" (the author),
+ 3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
+ 4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
 
 ## Credits
 This project could not have been possible without the support of the following people:
