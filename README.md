@@ -235,6 +235,13 @@ After further compressing the jpg img for the first carousel img corrected this 
 
 ![final lighthouse report](doc/images/second-lh-results-desktop.png)
 
+This website was built using html, css and BootStrap. To contribute to make changes:
+  1. Clone the respostory
+  2. Make your changes locally
+  3. Test your changes
+  4. Commit and push to the main branch
+  5. GitHub Pages will automatically update the live site
+
 ## 10. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
 The following list of items will be used for the final product:
