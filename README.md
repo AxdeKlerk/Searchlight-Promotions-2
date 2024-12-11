@@ -58,6 +58,10 @@ To create a website that:
   11. as a user, I want to be able to sign up to a mailing list so that I can stay informed (could-have)
 
 ### 3. Wire Frames
+The wireframes served as a guide throughout the design of the website. They allowed for collaboration with the client when initially discussing the layout and functionality. Below are images to each of the different layouts for mobile, tablet and desktop devices. 
+
+There was some deviation from the original wireframes as the project developed. Initially, I had included a navbar, but at the clients request it was changed to a header instead. 
+
   1. Desk Top:
 
   ![wf-desk-top-welcome](https://github.com/user-attachments/assets/1344b41c-bd9e-443b-a33b-9803b602790a)
