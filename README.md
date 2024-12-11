@@ -80,7 +80,15 @@ There was some deviation from the original wireframes as the project developed. 
   Instead, the logo was incorporated as the header and then later used in the footer to conclude the page.
 
  ### 2.	Logo
- The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the Thank you and Error Messages page.  The logo has now been incorporated in other marketing materials.
+ The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the thank you and error Messages page.  The logo has now been incorporated in other marketing materials. After discussions with the client they decided on the send of these images for future use:
+
+  1.
+  ![first iteration of the logo image](assets/images/Logo.png)
+
+  2.
+  ![final logo on a transparent background](assets/images/icons/Searchlight-icon-grn.png)
+
+
 
  ### 3. Colour Scheme
  The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trnd developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape found in the real world. The choice of backgroumnd colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplioed by the client:
