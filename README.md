@@ -88,7 +88,7 @@ There was some deviation from the original wireframes as the project developed. 
    2.	The second choice was ….. This was chosen to create an over-all appeal of an old-school type face
 
  ### 4.	Carousel
- Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich
+ Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich. All of which have padding in line with the colour theme.
 
   #### 1. The Dead Reynolds
 ![titled-dead-reynolds](https://github.com/user-attachments/assets/3fbd041c-1525-472e-87d1-6266fc912b45)
