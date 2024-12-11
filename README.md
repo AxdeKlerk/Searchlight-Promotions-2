@@ -118,6 +118,8 @@ There was some deviation from the original wireframes as the project developed. 
 
  ### 7.	Page Titles
  Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
+
+ This is an example of the page titles: ![example of the page titles](doc/images/page-title-example.png)
  
  ### 8.	Welcome
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
@@ -139,10 +141,12 @@ There was some deviation from the original wireframes as the project developed. 
  ### 12.	Contact Form
  The contact form was set to be in-line with all other content. This allowed for greater sizing of each element considering the aging demographic who may not be as proficient as the younger users’ typing skills.
 
+ ![contact form](doc/images/contact-form-with-cta-btns.png)
+
   The contact form has been designed to be simple. It contains four required fields, a non-required filed, a submit button, link to the client's Facebook page and WeGotTickets page:
     1.	First Name (require),
     2.	Last Name (required),
-    3.	Email address Irequire) and'
+    3.	Email address (require) and'
     4.	Message (required)
     5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
     6. Once submitted the user is directed to a Thank You Message.
@@ -190,7 +194,8 @@ The following other bugs were identified and resolved (in no particular order)
  + Carousel images taking a long time to load - compressed image files,
  + Scaling was not responsive - changed media query breakpoints inline with BootStraps breakpopints,
  + Margins not aligning - added offsets
- + 
+ + Continued to have problems with readme file creating a branch - fellow student advised me to work in Git rather than GitHub
+ 
 
 ## 9. Testing and Deployment
 
@@ -207,7 +212,7 @@ This project could not have been possible without the support of the following p
 
 + Julia Brown  - my loving partner who took over the reigns at home and kept me fed and watered throughout,
 + Richard Wells - Code Institute Mentor - who helped guide me through the process from start to finish, and by no means least
-+ My team mates - Steve Powell, Robert Lewis and Jordan (surname unknown) who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
++ My team mates on my course - Steve Powell, Robert Lewis and Jordan (surname unknown) who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
 
 The following media was used:
 
