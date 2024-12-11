@@ -4,7 +4,8 @@
 Searchlight Promotions is a live music promotions company that specifically caters to the rock and metal community, in Norwich. It is the combined efforts of two music fans who have over 25 years’ experience in promoting rock and metal bands in East Anglia.
 
 The website serves to increase the company’s visibility on the internet and functions as an additional marketing tool to reach fans and emerging musicians (hitherto known as users) interesting in attending or playing at gigs in Norwich.
---image of site working on all devices--
+
+![image showing website responsive on all devices](doc/images/reponsive-image.png)
 
 ## 1. Introduction
 I approached a fellow metal-head (further referred to as 'the client') who owns a music promotions company in Norwich, and asked if he would like a website as he did not have one, for my first project. They agreed to have one built using the information that they had available on Facebook, for the content of the website, as this was currently his sole marketing platform. 
