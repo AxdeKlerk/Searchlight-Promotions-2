@@ -83,6 +83,8 @@ There was some deviation from the original wireframes as the project developed. 
  The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the Thank you and Error Messages page.  The logo has now been incorporated in other marketing materials.
 
  ### 3. Colour Scheme
+ The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trnd developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape found in the real world. The choice of backgroumnd colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplioed by the client:
+ 
 
  ### 4.	Typography
   Two fonts were used for the typography of the site:
