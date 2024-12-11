@@ -169,7 +169,7 @@ There was some deviation from the original wireframes as the project developed. 
 ## 8. Bugs Resolved and Unresolved
 This project has been a massive learning curve from the start. Having worked my way through the course material successfully, it wasn't till I started the project did I realise how much I didn't know and needed to learn from the beginning again. Hence, every step of the way caused bugs and errors that needed to be addressed as I went along. 
 
-The first bug I encounted was with *Git* and *GitHub* itself. I ran into some trouble trying to commit and sync my code. I connected with a few fellow students on *Slack* who said that there seemed to be a few people on *Slack* mentioning that they were having problems with *GitHub* and that perhaps it would be resolved later. I took that as sound advice an carried on coding. 
+The first major bug I encounted was with *Git* and *GitHub* itself. I ran into some trouble trying to commit and sync my code. I connected with a few fellow students on *Slack* who said that there seemed to be a few people on *Slack* mentioning that they were having problems with *GitHub* and that perhaps it would be resolved later. I took that as sound advice an carried on coding. 
 
 What I was actually doing was creating a new branch by starting a readme file in *GitHub* itself without committing and syncing my last change on my html file. My readme file was committing ok so I carried on with both my html and readme waiting for *Git* and *GitHub* to fix itself. 
 
@@ -184,6 +184,13 @@ My next step was to go and raise a ticket with Tutor Support on my LMS. By this 
 In a panic I messaged my my course Facilitator. While I waited for a reply I copied all my code to a *Word* Doc and then merged the two branches. I also open a new code space with my copied code as a fail-safe. The merge seemed to have worked, but in fear of it happening again I continued with my new code space and committed everything again.
 
 **Lesson learnt - commit and sync before doing anything else!**
+
+The following other bugs were identified and resolved (in no particular order)
+ + Carousel images weren't loading smoothly - a closing div was incorrectly positioned,
+ + Carousel images taking a long time to load - compressed image files,
+ + Scaling was not responsive - changed media query breakpoints inline with BootStraps breakpopints,
+ + Margins not aligning - added offsets
+ + 
 
 ## 9. Testing and Deployment
 
