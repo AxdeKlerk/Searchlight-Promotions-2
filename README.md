@@ -152,15 +152,16 @@ There was some deviation from the original wireframes as the project developed. 
  
 ![thank-you-message](https://github.com/user-attachments/assets/bb915b7d-f855-469c-adfd-fcaa39a42a67)
 
- ### 14.	Footer 
- The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
-
-
-
- ### 15.	Social Media 
+ ### 14.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other social media platforms are used. The only other wedsite that hosts their events is on WeGotTickets.com. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base (thie reflects the client's, the author's and known fellow rock and metal fans' that we share in common's preferences).
 
- As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
+ As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page. 
+ 
+ ### 15.	Footer 
+ The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
+
+![footer](https://github.com/user-attachments/assets/387b50be-27be-4d3d-bed9-6f9656a87178)
+
 
  ### 16. 404 Error Message
  ---- 
