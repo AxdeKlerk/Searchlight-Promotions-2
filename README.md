@@ -119,7 +119,9 @@ There was some deviation from the original wireframes as the project developed. 
  ### 7.	Page Titles
  Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
 
- This is an example of the page titles: ![example of the page titles](doc/images/page-title-example.png)
+ This is an example of the page titles:
+ 
+ ![example of the page titles](doc/images/page-title-example.png)
  
  ### 8.	Welcome
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
