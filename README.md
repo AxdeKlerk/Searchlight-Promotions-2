@@ -248,6 +248,8 @@ For a future iteration:
 ## 11. Conclusion
 It is with great excitement that after spending more time than I should have building this website that I have gained my first client. Searchlight Promotions have asked me to maintain the website by keeping it up-to-date and developing it with the future features as detailed above.
 
+As mentioned above, this has been an exceptional learning curve but an incredibly enjoyable one. I am excited by the future and thank the Code Institute for providing me this opportunity to change the course of my ship towards riches and treasures beyond any previous imaginations, albeit through predicted turbulent waters. As somebody once said: "Still waters never a good sailor made" (unknown source).
+
 ## 12. Credits
 This project could not have been possible without the support of the following people:
 
