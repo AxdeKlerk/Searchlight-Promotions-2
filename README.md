@@ -88,7 +88,19 @@ There was some deviation from the original wireframes as the project developed. 
   2.	The second choice was ….. This was chosen to create an over-all appeal of an old-school type face
 
 #### 4.	Carousel
-Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. 
+Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters (item list number 4) of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich
+
+ 1. 
+![titled-dead-reynolds](https://github.com/user-attachments/assets/3fbd041c-1525-472e-87d1-6266fc912b45)
+
+2. 
+![titled-black-lakes](https://github.com/user-attachments/assets/f48fcace-fa05-44b8-a570-028e87366203)
+
+3.
+![titled-trash-munroe](https://github.com/user-attachments/assets/ee5ce89a-8ae3-4dda-90b8-230954b7f24b)
+
+4. 
+
 
  #### 5.	Page Titles
  Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
