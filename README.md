@@ -80,7 +80,7 @@ There was some deviation from the original wireframes as the project developed. 
   Instead, the logo was incorporated as the header and then later used in the footer to conclude the page.
 
  ### 2.	Logo
- The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the thank you and error Messages page.  The logo has now been incorporated in other marketing materials. After discussions with the client they decided on the second of these images for future use, but agrred that the first one was used for contrast in the header:
+ The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the thank you and error Messages page.  The logo has now been incorporated in other marketing materials. After discussions with the client they decided on the second of these images for future use, but agrred that the first one was used for contrast in the header and footer:
 
   1.
   ![first iteration of the logo image](assets/images/Logo.png)
