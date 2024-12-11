@@ -154,14 +154,16 @@ There was some deviation from the original wireframes as the project developed. 
  The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
 
  ### 15.	Social Media 
- Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other platforms are used. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base.
+ Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other social media platforms are used. The only other wedsite that hosts their events is on WeGotTickets.com. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base (thie reflects the client's, the author's and known fellow rock and metal fans' that we share in common's preferences).
 
  As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
 
  ### 16. 404 Error Message
  ---- 
 
-## 8. Future Features
+## 8. Testing and Deployment
+
+## 9. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
 The following list of items will be used for the final product:
  1. Unique URL - for distribution and marketing pruposes
@@ -169,7 +171,7 @@ The following list of items will be used for the final product:
  3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
  4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
 
-## 9. Credits
+## 10. Credits
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reigns at home and kept me fed and watered throughout,
