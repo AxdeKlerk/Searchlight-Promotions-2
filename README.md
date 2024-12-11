@@ -161,9 +161,28 @@ There was some deviation from the original wireframes as the project developed. 
  ### 16. 404 Error Message
  ---- 
 
-## 8. Testing and Deployment
+## 8. Bugs Resolved and Unresolved
+This project has been a massive learning curve from the start. Having worked my way through the course material successfully, it wasn't till I started the project did I realise how much I didn't know and needed to learn from the beginning again. Hence, every step of the way caused bugs and errors that needed to be addressed as I went along. 
 
-## 9. Future Features
+The first bug I encounted was with *Git* and *GitHub* itself. I ran into some trouble trying to commit and sync my code. I connected with a few fellow students on *Slack* who said that there seemed to be a few people on *Slack* mentioning that they were having problems with *GitHub* and that perhaps it would be resolved later. I took that as sound advice an carried on coding. 
+
+What I was actually doing was creating a new branch by starting a readme file in *GitHub* itself without committing and syncing my last change on my html file. My readme file was committing ok so I carried on with both my html and readme waiting for *Git* and *GitHub* to fix itself. 
+
+As the problem went on I was starting to get concerned that I was going to lose everything so I went to google and *SlackOverflow* to see if anybody had found an answer. What amazed me on *SlackOverflow* was that the amount of negativity that was being thrown at questions around this issue, with comments like: "if you are asking this question then you shouldn't be a coder", "commit and push/pull are the fundamentals of *Git* - go back a do a course on an introduction" and my whole perspective changed. I went from happily coding and waiting for the problem to be resolved to `'yeah, they are probably right and I should just give up. Who am I trying to convince that I will ever get this'.
+
+My next step was to go to AI (to avoid any more negativity) and searched my problem in *Perplexity*. (I use *Perplexity* over *ChatGBT* because *Perplexity* gives you references and I find them useful to go to the original source for further reading.) This is where I learnt that I had created a new branch with my readme file and that my my changes to my  main branch had not been synced before I started my readme doc.
+
+![git-branches](https://github.com/user-attachments/assets/2f8c470e-0c17-4adf-ac23-b92ed0aab637)
+
+My next step was to go and raise a ticket with Tutor Support on my LMS. By this time it was the next morning and Tutor Support wasn't available for another hour. I left the ticket and went to work in the hope that I could go back to it during my lunch hour. This did not work as too much time had lapsed and the ticket was closed off. 
+
+In a panic I messaged my my course Facilitator. While I waited for a reply I copied all my code to a *Word* Doc and then merged the two branches. I also open a new code space with my copied code as a fail-safe. The merge seemed to have worked, but in fear of it happening again I continued with my new code space and committed everything again.
+
+**Lesson learnt - commit and sync before doing anything else!**
+
+## 9. Testing and Deployment
+
+## 10. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
 The following list of items will be used for the final product:
  1. Unique URL - for distribution and marketing pruposes
@@ -171,7 +190,7 @@ The following list of items will be used for the final product:
  3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
  4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
 
-## 10. Credits
+## 11. Credits
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reigns at home and kept me fed and watered throughout,
