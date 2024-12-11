@@ -241,9 +241,14 @@ The following list of items will be used for the final product:
  1. Unique URL - for distribution and marketing pruposes
  2. Navbar - it was agreed that a navbar would be useful for navigation purposes to enable users to find the different areas of the website with ease and to remove a sense of "over load" (the author),
  3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
+
+For a future iteration: 
  4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
 
-## 11. Credits
+## 11. Conclusion
+It is with great excitement that after spending more time than I should have building this website that I have gained my first client. Searchlight Promotions have asked me to maintain the website by keeping it up-to-date and developing it with the future features as detailed above.
+
+## 12. Credits
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reigns at home and kept me fed and watered throughout,
