@@ -157,5 +157,25 @@ There was some deviation from the original wireframes as the project developed. 
 
  As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
 
+## Credits
+This project could not have been possible without the support of the following people:
+
++ Julia Brown  - my loving partner who took over the reigns at home and kept me fed and watered throughout,
++ Richard Wells - Code Institute Mentor - who helped guide me through the process from start to finish, and by no means least
++ My team mates - Steve Powell, Robert Lewis and Jordan (surname unknown) who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
+
+The following media was used:
+
++ Google Fonts - for typology
++ W3schools - a constant source of reference for all html, css and BootStrap explanations
++ BootStrap Docs - for reference to all BootStrap syntax
++ Images - all supplied by Searchlight Promotions
++ Optimizilla - for image compression
++ W3C Markup Validation Service - for html validation
++ W3C CSS Validation Service - for css validation
++ Lighthouse - for performance and accessibility testing
++ Perplexity - AI tool used for general queries and learning
++ Slack Overflow - for general queries
+
 
      
