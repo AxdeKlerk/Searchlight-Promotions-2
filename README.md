@@ -84,8 +84,8 @@ There was some deviation from the original wireframes as the project developed. 
 
  ### 3.	Typography
   Two fonts were used for the typography of the site:
-   1.	The first being ….. chosen to represent a rock and metal genre
-   2.	The second choice was ….. This was chosen to create an over-all appeal of an old-school type face
+   1.	The first being "Protest Revolution" chosen to represent a rock and metal genre.
+   2.	The second choice was "Geist Mono". This was chosen to create an over-all appeal of an old-school type face.
 
  ### 4.	Carousel
  Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich. All of which have padding in line with the colour theme.
@@ -123,11 +123,13 @@ There was some deviation from the original wireframes as the project developed. 
  Points the user directly to the section of the website where they can contact the owners of the business
 
  ### 10.	Call to Action Buttons (cta-btns)
- Are styled to match the colour scheme of the website that do not overwhelm the user’s experience. 
-
-   There are two different cta-btns:
-     1.	Two general cta-btns; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
-     2.	Eight cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
+ Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
+ 
+ There are two different cta-btns:
+  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
+  2.	Eight cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
+     ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
+     ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
 
  ### 11.	About Image
  The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils.
