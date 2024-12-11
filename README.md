@@ -109,7 +109,7 @@ There was some deviation from the original wireframes as the project developed. 
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
 
  ### 7.	About
- Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. It also includes a photo, shaped as an oval, of both the owners of the business with another artist: Sam Spade of the Midnight Runners:
+ Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. It also includes a photo, shaped as an oval, of both the owners of the business with another artist: Sam Spade of the Midnight Runners, with padding and title:
 
  ![about-img](https://github.com/user-attachments/assets/fc1aacab-11d6-4fe6-8b73-73bbbaa484d9)
 
