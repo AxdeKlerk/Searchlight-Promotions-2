@@ -84,7 +84,8 @@ There was some deviation from the original wireframes as the project developed. 
 
  ### 3. Colour Scheme
  The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trnd developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape found in the real world. The choice of backgroumnd colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplioed by the client:
- 
+
+![light-on-wall](https://github.com/user-attachments/assets/c664d5cb-e284-4ec5-9941-7bea04311655)
 
  ### 4.	Typography
   Two fonts were used for the typography of the site:
@@ -184,6 +185,7 @@ This project could not have been possible without the support of the following p
 The following media was used:
 
 + Google Fonts - for typology
++ Coolors.co - for the colour picker
 + W3schools - a constant source of reference for all html, css and BootStrap explanations
 + BootStrap Docs - for reference to all BootStrap syntax
 + Images - all supplied by Searchlight Promotions
