@@ -89,8 +89,8 @@ There was some deviation from the original wireframes as the project developed. 
 
  ### 4.	Typography
   Two fonts were used for the typography of the site:
-   1.	The first being "Protest Revolution" chosen to represent a rock and metal genre.
-   2.	The second choice was "Geist Mono". This was chosen to create an over-all appeal of an old-school type face.
+   1.	The first being "Protest Revolution" chosen to represent a rock and metal genre in #11ED73.
+   2.	The second choice was "Geist Mono". This was chosen to create an over-all appeal of an old-school type face and both white and #11ED73 were used for content.
 
  ### 5.	Carousel
  Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich. All of which have padding in line with the colour theme.
