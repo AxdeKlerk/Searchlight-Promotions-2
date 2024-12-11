@@ -111,7 +111,7 @@ There was some deviation from the original wireframes as the project developed. 
  ### 7.	About
  Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. It also includes a photo, shaped as an oval, of both the owners of the business with another artist: Sam Spade of the Midnight Runners:
 
- 
+ ![about-img](https://github.com/user-attachments/assets/fc1aacab-11d6-4fe6-8b73-73bbbaa484d9)
 
  ### 8.	Events
  Indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets
