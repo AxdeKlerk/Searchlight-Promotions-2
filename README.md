@@ -136,9 +136,6 @@ There was some deviation from the original wireframes as the project developed. 
 ![events-2](https://github.com/user-attachments/assets/0a28d58c-1092-4a99-90df-acd84461ec1f)
 
  ### 11.	Contact
- ----
-
- ### 12.	Contact Form
  The contact form was set to be in-line with all other content. This allowed for greater sizing of each element considering the aging demographic who may not be as proficient as the younger users’ typing skills.
 
  ![contact form](doc/images/contact-form-with-cta-btns.png)
@@ -151,23 +148,23 @@ There was some deviation from the original wireframes as the project developed. 
     5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
     6. Once submitted the user is directed to a Thank You Message.
 
- ### 13.	Thank You Message
+ ### 12.	Thank You Message
  The thank you message follows the design and style of the site; however, the logo is larger to show the ‘metal-horns’ which showcases the attention to detail of the company. It also contains a message to direct the user back to the website by closing the window.
  
 ![thank-you-message](https://github.com/user-attachments/assets/bb915b7d-f855-469c-adfd-fcaa39a42a67)
 
- ### 14.	Social Media 
+ ### 13.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other social media platforms are used. The only other wedsite that hosts their events is on WeGotTickets.com. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base (thie reflects the client's, the author's and known fellow rock and metal fans' that we share in common's preferences).
 
  As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page. 
  
- ### 15.	Footer 
+ ### 14.	Footer 
  The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
 
 ![footer](https://github.com/user-attachments/assets/387b50be-27be-4d3d-bed9-6f9656a87178)
 
 
- ### 16. 404 Error Message
+ ### 15. 404 Error Message
  ---- 
 
 ## 8. Bugs Resolved and Unresolved
@@ -198,6 +195,36 @@ The following other bugs were identified and resolved (in no particular order)
  
 
 ## 9. Testing and Deployment
+Deployement was done early following lesson in a Code Institute Soft Ware Development Xourse that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 193 deployments.
+
+Testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
+
+![image of first html validation report with errors](doc/images/first-html-validation-index.png)
+
+After correcting the errors the report returned without errors:
+
+![final vaildation report without errors](doc/images/final-html-validation-index.png)
+
+However, the validations for the thank you message and the error 404 message were returned without errors:
+
+![thank you message validation without errors](doc/images/html-validation-thank-you-page.png)
+![error 404 message validation without errors](doc/images/html-validation-404-page.png)
+
+The first css validation returned 5 errors as shown here:
+
+![image of first css validation with 5 errors](doc/images/first-css-validation.png)
+
+After correcting the errors the validation return, as follows:
+
+![second css validation without errors](doc/images/second-css-validation.png)
+
+Testing accesibility using Lighthouse at first delivered the following report:
+
+![first lighthouse report showing a performance rating of 64](doc/images/first-lh-results-desktop.png)
+
+After further compressing the jpg img for the first carousel img corrected this and returned a report with a performance rating of 98, accesibility of 100, best practive of 93 and SEO of 91:
+
+![final lighthouse report](doc/images/second-lh-results-desktop.png)
 
 ## 10. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
