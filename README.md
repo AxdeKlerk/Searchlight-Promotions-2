@@ -114,12 +114,12 @@ There was some deviation from the original wireframes as the project developed. 
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
 
  ### 8.	About
- Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. It also includes a photo, shaped as an oval, of both the owners of the business with another artist: Sam Spade of the Midnight Runners, with padding and title:
+ The title indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils, with padding and title: 
 
  ![about-img](https://github.com/user-attachments/assets/fc1aacab-11d6-4fe6-8b73-73bbbaa484d9)
 
  ### 9.	Events
- Indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets
+ The title indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets. All event card images are current marketing image posters used on Facebook and other marketing media. Their size is not consistent, but it was more important to keep the material consistent than to resize the images. Thus, the event cards were set to the end of the column to create some cohesion for the viewing experience, placing the cta-btns in-line with each other.
  
 ![events-1](https://github.com/user-attachments/assets/c51a33fd-12a6-4d9b-a8eb-ebaa0a8ac1a6)
 ![events-2](https://github.com/user-attachments/assets/0a28d58c-1092-4a99-90df-acd84461ec1f)
@@ -136,13 +136,7 @@ There was some deviation from the original wireframes as the project developed. 
      ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
      ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
 
- ### 12.	About Image
- The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils.
-
- ### 13.	Event Cards
- All event card images are current marketing image posters used on Facebook and other marketing media. Their size is not consistent, but it was more important to keep the material consistent than to resize the images. The event cards were set to the end of the column to create some cohesion for the viewing experience, placing the cta-btns in-line with each other.
-
- ### 14.	Contact Form
+ ### 12.	Contact Form
  The contact form was set to be in-line with all other content. This allowed for greater sizing of each element considering the aging demographic who may not be as proficient as the younger users’ typing skills.
 
   The contact form has been designed to be simple. It contains four required fields, a non-required filed, a submit button, link to the client's Facebook page and WeGotTickets page:
@@ -153,18 +147,18 @@ There was some deviation from the original wireframes as the project developed. 
     5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
     6. Once submitted the user is directed to a Thank You Message.
 
- ### 15.	Thank You Message
+ ### 13.	Thank You Message
  The thank you message follows the design and style of the site; however, the logo is larger to show the ‘metal-horns’ which showcases the attention to detail of the company. It also contains a message to direct the user back to the website by closing the window.
 
- ### 16.	Footer 
+ ### 14.	Footer 
  The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
 
- ### 17.	Social Media 
+ ### 15.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other platforms are used. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base.
 
  As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
 
- ### 18. 404 Error Message
+ ### 16. 404 Error Message
  ---- 
 
 ## 8. Future Features
