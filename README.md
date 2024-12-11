@@ -92,7 +92,16 @@ There was some deviation from the original wireframes as the project developed. 
    1.	The first being "Protest Revolution" chosen to represent a rock and metal genre in #11ED73.
    2.	The second choice was "Geist Mono". This was chosen to create an over-all appeal of an old-school type face and both white and #11ED73 were used for content.
 
- ### 5.	Carousel
+ ### 5.	Call to Action Buttons (cta-btns)
+ Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
+ 
+ There are two different cta-btns:
+  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
+  2.	Eight smaller cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
+     ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
+     ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
+
+ ### 6.	Carousel
  Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich. All of which have padding in line with the colour theme.
 
   #### 1. The Dead Reynolds
@@ -107,34 +116,25 @@ There was some deviation from the original wireframes as the project developed. 
   #### 4. ROXOFF 25
 ![untitles-roxokk-25](https://github.com/user-attachments/assets/355c9260-e82c-41b8-841b-1173372d28ab)
 
- ### 6.	Page Titles
+ ### 7.	Page Titles
  Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
  
- ### 7.	Welcome
+ ### 8.	Welcome
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
 
- ### 8.	About
+ ### 9.	About
  The title indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils, with padding and title: 
 
  ![about-img](https://github.com/user-attachments/assets/fc1aacab-11d6-4fe6-8b73-73bbbaa484d9)
 
- ### 9.	Events
+ ### 10.	Events
  The title indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets. All event card images are current marketing image posters used on Facebook and other marketing media. Their size is not consistent, but it was more important to keep the material consistent than to resize the images. Thus, the event cards were set to the end of the column to create some cohesion for the viewing experience, placing the cta-btns in-line with each other.
  
 ![events-1](https://github.com/user-attachments/assets/c51a33fd-12a6-4d9b-a8eb-ebaa0a8ac1a6)
 ![events-2](https://github.com/user-attachments/assets/0a28d58c-1092-4a99-90df-acd84461ec1f)
 
- ### 10.	Contact
+ ### 11.	Contact
  ----
-
- ### 11.	Call to Action Buttons (cta-btns)
- Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
- 
- There are two different cta-btns:
-  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
-  2.	Eight smaller cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
-     ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
-     ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
 
  ### 12.	Contact Form
  The contact form was set to be in-line with all other content. This allowed for greater sizing of each element considering the aging demographic who may not be as proficient as the younger users’ typing skills.
