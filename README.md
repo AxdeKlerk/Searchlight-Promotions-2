@@ -115,6 +115,9 @@ There was some deviation from the original wireframes as the project developed. 
 
  ### 8.	Events
  Indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets
+ 
+![events-1](https://github.com/user-attachments/assets/c51a33fd-12a6-4d9b-a8eb-ebaa0a8ac1a6)
+![events-2](https://github.com/user-attachments/assets/0a28d58c-1092-4a99-90df-acd84461ec1f)
 
  ### 9.	Contact
  Points the user directly to the section of the website where they can contact the owners of the business
