@@ -57,7 +57,7 @@ To create a website that:
   10. as a user, I want to have a positive emotional experience (should-have)
   11. as a user, I want to be able to sign up to a mailing list so that I can stay informed (could-have)
 
-### 3. Wire Frames
+### 5. Wire Frames
 The wireframes served as a guide throughout the design of the website. They allowed for collaboration with the client when initially discussing the layout and functionality. Below are images to each of the different layouts for mobile, tablet and desktop devices. 
 
 There was some deviation from the original wireframes as the project developed. Initially, I had included a navbar, but at the clients request it was changed to a header instead. 
@@ -72,6 +72,73 @@ There was some deviation from the original wireframes as the project developed. 
   2. Mobile:
   
   ![mobile-wire-frame](https://github.com/user-attachments/assets/ccf63cdf-6e6e-4d88-a5ea-d66db18c1f7e)
+
+### 6. Features
+ #### 1.	Header
+ Was originally intended as a navbar. However, the client did not want any user to “click away from the content” (the client), but rather use the same functionality of the ‘single digit scroll’ as employed by other social media platforms.
+
+  Instead, the logo was incorporated as the header and then later used in the footer to conclude the page.
+
+ #### 2.	Logo
+ The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the Thank you and Error Messages page. The logo has now been incorporated in other marketing materials.
+
+ #### 3.	Typography
+ Two fonts were used for the typography of the site:
+  1.	The first being ….. chosen to represent a rock and metal genre
+  2.	The second choice was ….. This was chosen to create an over-all appeal of an old-school type face
+
+#### 4.	Carousel
+Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. 
+
+ #### 5.	Page Titles
+ Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
+ 
+ #### 6.	Welcome
+ A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images
+
+#### 7.	About
+Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments
+
+#### 12.	Events
+Indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets
+
+#### 13.	Contact
+Points the user directly to the section of the website where they can contact the owners of the business
+
+#### 14.	Call to Action Buttons (cta-btns)
+Are styled to match the colour scheme of the website that do not overwhelm the user’s experience. 
+
+   There are two different cta-btns:
+     1.	Two general cta-btns; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
+     2.	Eight cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
+
+#### 15.	About Image
+The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils.
+
+#### 16.	Event Cards
+All event card images are current marketing image posters used on Facebook and other marketing media. Their size is not consistent, but it was more important to keep the material consistent than to resize the images. The event cards were set to the end of the column to create some cohesion for the viewing experience, placing the cta-btns in-line with each other.
+
+#### 17.	Contact Form
+The contact form was set to be in-line with all other content. This allowed for greater sizing of each element considering the aging demographic who may not be as proficient as the younger users’ typing skills.
+
+  The contact form has been designed to be simple. It contains four required fields, a non-required filed, a submit button, link to the client's Facebook page and WeGotTickets page:
+    1.	First Name (require),
+    2.	Last Name (required),
+    3.	Email address Irequire) and'
+    4.	Message (required)
+    5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
+    6. Once submitted the user is directed to a Thank You Message.
+
+#### 18.	Thank You Message
+The thank you message follows the design and style of the site; however, the logo is larger to show the ‘metal-horns’ which showcases the attention to detail of the company. It also contains a message to direct the user back to the website by closing the window.
+
+#### 19.	Footer 
+The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
+
+#### 20.	Social Media 
+Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other platforms are used. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base.
+
+ As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
 
 
      
