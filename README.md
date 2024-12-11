@@ -149,14 +149,19 @@ There was some deviation from the original wireframes as the project developed. 
 
  ### 13.	Thank You Message
  The thank you message follows the design and style of the site; however, the logo is larger to show the ‘metal-horns’ which showcases the attention to detail of the company. It also contains a message to direct the user back to the website by closing the window.
+ 
+![thank-you-message](https://github.com/user-attachments/assets/bb915b7d-f855-469c-adfd-fcaa39a42a67)
 
- ### 14.	Footer 
- The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
-
- ### 15.	Social Media 
+ ### 14.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other social media platforms are used. The only other wedsite that hosts their events is on WeGotTickets.com. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base (thie reflects the client's, the author's and known fellow rock and metal fans' that we share in common's preferences).
 
- As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page.
+ As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page. 
+ 
+ ### 15.	Footer 
+ The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
+
+![footer](https://github.com/user-attachments/assets/387b50be-27be-4d3d-bed9-6f9656a87178)
+
 
  ### 16. 404 Error Message
  ---- 
@@ -164,7 +169,7 @@ There was some deviation from the original wireframes as the project developed. 
 ## 8. Bugs Resolved and Unresolved
 This project has been a massive learning curve from the start. Having worked my way through the course material successfully, it wasn't till I started the project did I realise how much I didn't know and needed to learn from the beginning again. Hence, every step of the way caused bugs and errors that needed to be addressed as I went along. 
 
-The first bug I encounted was with *Git* and *GitHub* itself. I ran into some trouble trying to commit and sync my code. I connected with a few fellow students on *Slack* who said that there seemed to be a few people on *Slack* mentioning that they were having problems with *GitHub* and that perhaps it would be resolved later. I took that as sound advice an carried on coding. 
+The first major bug I encounted was with *Git* and *GitHub* itself. I ran into some trouble trying to commit and sync my code. I connected with a few fellow students on *Slack* who said that there seemed to be a few people on *Slack* mentioning that they were having problems with *GitHub* and that perhaps it would be resolved later. I took that as sound advice an carried on coding. 
 
 What I was actually doing was creating a new branch by starting a readme file in *GitHub* itself without committing and syncing my last change on my html file. My readme file was committing ok so I carried on with both my html and readme waiting for *Git* and *GitHub* to fix itself. 
 
@@ -179,6 +184,13 @@ My next step was to go and raise a ticket with Tutor Support on my LMS. By this 
 In a panic I messaged my my course Facilitator. While I waited for a reply I copied all my code to a *Word* Doc and then merged the two branches. I also open a new code space with my copied code as a fail-safe. The merge seemed to have worked, but in fear of it happening again I continued with my new code space and committed everything again.
 
 **Lesson learnt - commit and sync before doing anything else!**
+
+The following other bugs were identified and resolved (in no particular order)
+ + Carousel images weren't loading smoothly - a closing div was incorrectly positioned,
+ + Carousel images taking a long time to load - compressed image files,
+ + Scaling was not responsive - changed media query breakpoints inline with BootStraps breakpopints,
+ + Margins not aligning - added offsets
+ + 
 
 ## 9. Testing and Deployment
 
