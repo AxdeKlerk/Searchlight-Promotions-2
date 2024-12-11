@@ -100,16 +100,18 @@ There was some deviation from the original wireframes as the project developed. 
 ![titled-trash-munroe](https://github.com/user-attachments/assets/ee5ce89a-8ae3-4dda-90b8-230954b7f24b)
 
   #### 4. ROXOFF 25
-
+![untitles-roxokk-25](https://github.com/user-attachments/assets/355c9260-e82c-41b8-841b-1173372d28ab)
 
  ### 5.	Page Titles
  Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
  
  ### 6.	Welcome
- A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images
+ A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
 
  ### 7.	About
- Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments
+ Indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. It also includes a photo, shaped as an oval, of both the owners of the business with another artist: Sam Spade of the Midnight Runners:
+
+ 
 
  ### 8.	Events
  Indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets
