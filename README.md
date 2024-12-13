@@ -94,7 +94,7 @@ There was some deviation from the original wireframes as the project developed. 
  The logo was designed to show a spotlight with the ‘metal-horns’ inside, centre. Although not visible in the header unless ‘zoomed-in’, it is visible in scaled versions on the thank you and error Messages page.  The logo has now been incorporated in other marketing materials. After discussions with the client they decided on the second of these images for future use, but agrred that the first one was used for contrast in the header and footer:
 
   1.
-  ![first iteration of the logo image](assets/images/Logo.png)
+  ![first iteration of the logo image](assets/images/logo.png)
 
   2.
   ![final logo on a transparent background](assets/images/icons/Searchlight-icon-grn.png)
