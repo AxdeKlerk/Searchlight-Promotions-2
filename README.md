@@ -243,7 +243,7 @@ As I went along I tested the website on my phone and laptop using both Google an
 
  1. Informal manual (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
 
- 2. Formal testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
+ 2. Formal (automated) testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
 
 ![image of first html validation report with errors](doc/images/first-html-validation-index.png)
 
@@ -264,31 +264,31 @@ After correcting the errors the validation return, as follows:
 
 ![second css validation without errors](doc/images/second-css-validation.png)
 
-Testing accesibility using Lighthouse at first delivered the following report:
+Testing accessibility using Lighthouse at first delivered the following report:
 
 ![first lighthouse report showing a performance rating of 64](doc/images/first-lh-results-desktop.png)
 
-After further compressing the jpg img for the first carousel img corrected this and returned a report with a performance rating of 98, accesibility of 100, best practive of 93 and SEO of 91:
+After further compressing the jpg img for the first carousel img corrected this and returned a report with a performance rating of 98, accessibility of 100, best practice of 93 and SEO of 91:
 
 ![final lighthouse report](doc/images/second-lh-results-desktop.png)
 
-This website was built using html, css and BootStrap. To contribute to make changes:
-  1. Clone the respostory
+This website was built using html 5, css 3 and BootStrap 5.33. To contribute to make changes:
+  1. Clone the repository
   2. Make your changes locally
   3. Test your changes
   4. Commit and push to the main branch
   5. GitHub Pages will automatically update the live site
 
 ## 9. Future Features
-When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
+When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implemented in the very near future and before its official launch.
 The following list of items will be used for the final product:
- 1. Unique URL - for distribution and marketing pruposes
+ 1. Unique URL - for distribution and marketing purposes
  2. Navbar - it was agreed that a navbar would be useful for navigation purposes to enable users to find the different areas of the website with ease and to remove a sense of "over load" (the author),
  3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
 
 For a future iteration:
  
- 4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
+ 4. A page solely for merchandise - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to implement it)
 
 ## 10. Conclusion
 It is with great excitement that after spending more time than I should have building this website that I have gained my first client. Searchlight Promotions have asked me to maintain the website by keeping it up-to-date and developing it with the future features as detailed above.
@@ -301,7 +301,7 @@ As mentioned above, this has been an exceptional learning curve but an incredibl
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reins at home and kept me fed and watered throughout,
-+ Julie, Paul & Elaine - thank you for your, somtimes brutal, honesty although it was frustrating at times it most definitely gave me the drive to push harder,
++ Julie, Paul & Elaine - thank you for your, sometimes brutal, honesty although it was frustrating at times it most definitely gave me the drive to push harder,
 + Richard Wells - Code Institute Mentor - who helped guide me through the process from start to finish, and by no means least
 + My team mates on my course - Steve Powell, Robert Lewis and Jordan (surname unknown) who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
 
