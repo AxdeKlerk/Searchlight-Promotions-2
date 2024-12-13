@@ -201,18 +201,43 @@ In a panic I messaged my my course Facilitator. While I waited for a reply I cop
 
 **Lesson learnt - commit and sync before doing anything else!**
 
-The following other bugs were identified and resolved (in no particular order)
- + Carousel images weren't loading smoothly - a closing div was incorrectly positioned,
- + Carousel images taking a long time to load - compressed image files,
- + Scaling was not responsive - changed media query breakpoints inline with BootStraps breakpopints,
- + Margins not aligning - added offsets
- + Continued to have problems with readme file creating a branch - fellow student advised me to work in Git rather than GitHub
+Throughout the project I have used the deployment of the website to test to see what the site looks like in real time. I have also used 'dev tools' consistently to try and identify the errors in the code and how to make the correct changes in order to fix issues.
+
+The following bugs were identified and resolved (in no particular order):
+
+**Problem:** the carousel images weren't loading smoothly 
+**Cause:** misplaced closing div
+**Resolution:** moved closing div to the correct line
+ 
+**Problem:** carousel images taking a long time to load
+**Cause:** image sizes too big
+**Resolution:** used Optimizilla to compress files
+
+**Problem:** scaling was not responsive
+**Cause:** media query breakpoints out of sync with BootStrap's breakpoints
+**Resolution:** changed media queries to match BootStrap's breakpoints
+
+**Problem:** margins not lining up
+**Cause:** container columns not consistent
+**Resolution:** added offsets
+
+**Problem:** continued to have problems with readme file creating a branch 
+**Cause:** editing my readme file in GitHub
+**Resolution:** started editing the readme fil in Git
+
+**Problem:** resizing the extra extra small media queries to reduce title size
+**Cause:** caching
+**Resolution:** deleted cookies and cache, and hard refreshed
  
 
 ## 8. Testing and Deployment
-Deployement was done early following lesson in a Code Institute Soft Ware Development Xourse that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 193 deployments.
+Deployement was done early following lesson in a Code Institute Soft Ware Development Xourse that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 225 deployments.
 
-Testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
+As I went along I tested the website on my phone and laptop using both Google and Brave (a Google based browser), as well as testing it in MS Edge on my work laptop. I tested the site for responsiveness continually in Google and Brave as I went along. I only tested it in Ms Edge once I had completed it. Other than my own testing two seperate methods were also used for testing purposes: informal and formal testing.
+
+ 1. Informal manuel (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). 
+
+ 2. Formal testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
 
 ![image of first html validation report with errors](doc/images/first-html-validation-index.png)
 
