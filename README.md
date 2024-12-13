@@ -205,37 +205,36 @@ Throughout the project I have used the deployment of the website to test to see 
 
 The following bugs were identified and resolved (in no particular order):
 
-**Problem:** the carousel images weren't loading smoothly 
+ + **Problem:** the carousel images weren't loading smoothly
 **Cause:** misplaced closing div
 **Resolution:** moved closing div to the correct line
  
-**Problem:** carousel images taking a long time to load
+ + **Problem:** carousel images taking a long time to load
 **Cause:** image sizes too big
 **Resolution:** used Optimizilla to compress files
 
-**Problem:** scaling was not responsive
+ + **Problem:** scaling was not responsive
 **Cause:** media query breakpoints out of sync with BootStrap's breakpoints
 **Resolution:** changed media queries to match BootStrap's breakpoints
 
-**Problem:** margins not lining up
+ + **Problem:** margins not lining up
 **Cause:** container columns not consistent
-**Resolution:** added offsets
+**Resolution:** added offsets to breakpoints
 
-**Problem:** continued to have problems with readme file creating a branch 
+ + **Problem:** continued to have problems with readme file creating a branch 
 **Cause:** editing my readme file in GitHub
 **Resolution:** started editing the readme fil in Git
 
-**Problem:** resizing the extra extra small media queries to reduce title size
+ + **Problem:** resizing the extra extra small media queries to reduce title size
 **Cause:** caching
 **Resolution:** deleted cookies and cache, and hard refreshed
- 
 
 ## 8. Testing and Deployment
 Deployement was done early following lesson in a Code Institute Soft Ware Development Xourse that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 225 deployments.
 
 As I went along I tested the website on my phone and laptop using both Google and Brave (a Google based browser), as well as testing it in MS Edge on my work laptop. I tested the site for responsiveness continually in Google and Brave as I went along. I only tested it in Ms Edge once I had completed it. Other than my own testing two seperate methods were also used for testing purposes: informal and formal testing.
 
- 1. Informal manuel (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). 
+ 1. Informal manuel (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
 
  2. Formal testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
 
@@ -295,6 +294,7 @@ As mentioned above, this has been an exceptional learning curve but an incredibl
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reins at home and kept me fed and watered throughout,
++ Julie, Paul & Elaine - thank you for your, somtimes brutal, honesty although it was frustrating at times it most definitely gave me the drive to push harder,
 + Richard Wells - Code Institute Mentor - who helped guide me through the process from start to finish, and by no means least
 + My team mates on my course - Steve Powell, Robert Lewis and Jordan (surname unknown) who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
 
