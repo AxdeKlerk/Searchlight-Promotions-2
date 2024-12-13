@@ -243,7 +243,7 @@ As I went along I tested the website on my phone and laptop using both Google an
 
  1. Informal manual (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
 
- 2. Formal (automated) testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
+ 2. Formal (automated) testing of the website was validated using the W3C Validation tools. The first validation of my html code resulted in 17 errors as seen here:
 
 ![image of first html validation report with errors](doc/images/first-html-validation-index.png)
 
@@ -303,7 +303,7 @@ This project could not have been possible without the support of the following p
 + Julia Brown  - my loving partner who took over the reins at home and kept me fed and watered throughout,
 + Julie, Paul & Elaine - thank you for your, sometimes brutal, honesty although it was frustrating at times it most definitely gave me the drive to push harder,
 + Richard Wells - Code Institute Mentor - who helped guide me through the process from start to finish, and by no means least
-+ My team mates on my course - Steve Powell, Robert Lewis and Jordan (surname unknown) who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
++ My team mates on my course - Steve Powell, Robert Lewis and Jordan Acomba who agreed to form a weekly study group on a Sunday evening, giving us time to discuss different aspects of our projects as we went along.
 
 The following media was used:
 
