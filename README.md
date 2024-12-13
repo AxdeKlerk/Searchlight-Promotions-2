@@ -174,6 +174,8 @@ There was some deviation from the original wireframes as the project developed. 
 
 
  ### 15. 404 Error Message
+
+ ![404 error message](doc/images/404-error-page-message.png)
  ---- 
 
 ## 8. Bugs Resolved and Unresolved
