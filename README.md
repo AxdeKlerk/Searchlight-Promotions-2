@@ -121,7 +121,7 @@ There was some deviation from the original wireframes as the project developed. 
   1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com
 
   ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
-  
+
   2.	Eight smaller cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
 
   ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
@@ -177,6 +177,7 @@ There was some deviation from the original wireframes as the project developed. 
 
 
  ### 13. 404 Error Message
+  The 404 error message follows the same design as the thank you message; however, the logo is linked back to the index.html with a message below it to clck on it to direct the user back to the website.
 
  ![404 error message](doc/images/404-error-page-message.png)
  ---- 
@@ -254,7 +255,8 @@ The following list of items will be used for the final product:
  2. Navbar - it was agreed that a navbar would be useful for navigation purposes to enable users to find the different areas of the website with ease and to remove a sense of "over load" (the author),
  3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
 
-For a future iteration: 
+For a future iteration:
+ 
  4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
 
 ## 10. Conclusion
