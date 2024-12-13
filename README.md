@@ -282,7 +282,7 @@ This website was built using html 5, css 3 and BootStrap 5.33. To contribute to 
 ## 9. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implemented in the very near future and before its official launch.
 The following list of items will be used for the final product:
- 1. Unique URL - for distribution and marketing purposes
+ 1. Unique domain - for distribution and marketing purposes
  2. Navbar - it was agreed that a navbar would be useful for navigation purposes to enable users to find the different areas of the website with ease and to remove a sense of "over load" (the author),
  3. A page solely for ROXOFF 25 - with video links and bios for each of the artists performing at the festival next year
 
