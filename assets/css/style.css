@@ -137,16 +137,16 @@ h3 {
 /*1 Extra small mobile devices (small phones, 360px and below)*/
 @media screen and (max-width: 360px) {
     #logo {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     .header-img {
-        height: 2.5rem;
+        height: 2.4rem;
     }
     .f-img {
-        height: 2.5rem;
+        height: 2.4rem;
     }
     #logo2 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     }
 }
 
