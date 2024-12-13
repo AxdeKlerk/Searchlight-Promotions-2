@@ -3,67 +3,72 @@
  # Searchlight Promotions
 Searchlight Promotions is a live music promotions company that specifically caters to the rock and metal community, in Norwich. It is the combined efforts of two music fans who have over 25 years’ experience in promoting rock and metal bands in East Anglia.
 
-The website serves to increase the company’s visibility on the internet and functions as an additional marketing tool to reach fans and emerging musicians (hitherto known as users) interesting in attending or playing at gigs in Norwich.
+The website serves to increase the company’s visibility on the internet and functions as an additional marketing tool to reach fans and emerging musicians (hitherto known as users) interested in attending or playing at gigs in Norwich.
 
 ![image showing website responsive on all devices](doc/images/reponsive-image-2.png)
 
 ## 1. Introduction
-I approached a fellow metal-head (further referred to as 'the client') who owns a music promotions company in Norwich, and asked if he would like a website as he did not have one, for my first project. They agreed to have one built using the information that they had available on Facebook, for the content of the website, as this was currently his sole marketing platform. 
+I approached a fellow metal-head (further referred to as 'the client') who owns a music promotions company in Norwich, and asked if he would like a website as he did not have one, for my first project. He agreed to have one built using the information that was available on Facebook, for the content of the website, as this was currently his sole marketing platform. 
 
 ## 2. Client Brief
 The client stipulated the following: 
 
-1.	it must be visually striking, following a colour theme in the style of other rock and metal promotions web sites, but move away from the standard red, black and white colour palette
-2.	a very simple site that gives just enough information about the company, but focusses on the events
-3.	must scroll (up and down) passed the events when navigating the site
-4.	only leaving the site to buy tickets
-5.	must not advertise Facebook (or any other social media), but have a link to their Facebook page at the bottom for those that do use Facebook 
-6.	must follow the style of Facebook and other social media platforms, using a single finger or thumb to scroll
-7.	must be easily navigable without the use of additional “clicking on menus” (the Client)
+1.	it must be visually striking, following a colour theme in the style of other rock and metal promotions web sites, but move away from the standard red, black and white colour palette,
+2.	a very simple site that gives just enough information about the company, but focusses on the events,
+3.	must scroll (up and down) passed the events when navigating the site,
+4.	only leaving the site to buy tickets,
+5.	must not advertise Facebook (or any other social media), but have a link to their Facebook page at the bottom for those that do use Facebook,
+6.	must follow the style of Facebook and other social media platforms, using a single finger or thumb to scroll, and
+7.	must be easily navigable without the use of additional “clicking on menus” (the Client).
 
 ## 3. The Aim and Purpose of the Site
-The primary aim is to create a presence beyond the scope of social media to attract rock and metal fans, as well as emerging new rock and metal musicians, to current events happening in Norwich encouraging contact via email.
+The primary aim is to create a presence beyond the scope of social media to attract rock and metal fans, as well as emerging new rock and metal musicians, to current events happening in Norwich and encouraging contact via email.
 
-The purpose of the site is to showcase upcoming events and to boost ticket sales for each of the gigs by attracting rock and metal fans who don't necessarily use social media. Further, the site must reflect the promotional element of the business to attract unsigned rock and metal artists who would like to get in contact with the company for promotion in Norwich. 
+The purpose of the site is to showcase upcoming events and to boost ticket sales for each of the gigs, by attracting rock and metal fans who don't necessarily use social media. Further, the site must reflect the promotional element of the business to attract unsigned rock and metal artists who would like to get in contact with the company for promotion in Norwich. 
 
 ## 4. Goals
 To create a website that:
-1.	looks visually striking in line with current marketing material
-2.	uses a colour palette that reflects the rock and metal community, but moves away from the standard red, black and white themes used on other sites
-3.	creates a form that encourages contact from fans who may like additional information as well as encourages contact from potential bands who would like to be promoted in and around Norwich 
-4.	shows a clear and simple guide to what is on offer
-5.	encourage contact via email
-6.	smooth scrolling using the ‘single’ digit’ principle
-7.	fully responsive across all devises
+1.	looks visually striking in line with current marketing material,
+2.	uses a colour palette that reflects the rock and metal community, but moves away from the standard red, black and white themes used on other sites,
+3.	creates a form that encourages contact from fans who may like additional information as well as encourages contact from potential bands who would like to be promoted in and around Norwich, 
+4.	shows a clear and simple guide to what is on offer,
+5.	focuses on the events,
+6.	smooth scrolling using the ‘single digit’ principle (as defined above), and
+7.	is fully responsive across all devises.
 
 ## 5. Planning and Development
 ### 1. Target Audience
-  1. aging demographic of rock and metal fans (also known as users) who don’t rely on social media for gig information in Norwich
-  2. younger rock and metal fans looking to support artists, locally
-  3. emerging, unsigned rock and metal musicians/bands looking to be promoted in Norwich
-  4. other music promoters who may want to collaborate
+The target audience is niche and focuses only on the rock and metal musicians and fans, but is more specifically an
+
+1. aging demographic of rock and metal fans who don’t rely on social media for gig information in Norwich,
+
+2. younger rock and metal fans looking to support artists, locally,
+
+3. emerging, unsigned rock and metal musicians/bands looking to be promoted in Norwich, and
+
+4. other music promoters who may want to collaborate.
 
 ### 2. User Stories
-  1. as a fan, I want to find out about gigs that are happening in Norwich (must-have)
-  2. a fan, I want to be able to find the information about gigs easily (must-have)
-  3. as a fan, I want to be able to identify with the promoters as fellow rock and metal-heads (must-have)
-  4. as a fan, I want to be able to contact the promoters to find out when a band is playing, if not already advertised (must-have)
+  1. As a fan, I want to find out about gigs that are happening in Norwich (must-have).
+  2. As a fan, I want to be able to find the information about gigs easily (must-have).
+  3. As a fan, I want to be able to identify with the promoters as fellow rock and metal-heads (must-have).
+  4. As a fan, I want to be able to contact the promoters to find out when a band is playing, if not already advertised (must-have).
 
-  5. as a musician, I want to see that the company is legitimate (must-have)
-  6. as a musician, I want to be able to contact the promoters to discuss playing in Norwich (must-have)
-  7. as a musician, I want to be able to link my gigs in Norwich to my social media platforms for marketing purposes (could-have)
+  5. As a musician, I want to see that the company is legitimate (must-have).
+  6. As a musician, I want to be able to contact the promoters to discuss playing in Norwich (must-have).
+  7. as a musician, I want to be able to link my gigs in Norwich to my social media platforms for marketing purposes (could-have).
 
-  8. as a user, I want high quality images that engaging me (must-have)
-  9. as a user, I want to feel a sense of community (should-have)
-  10. as a user, I want to have a positive emotional experience (should-have)
-  11. as a user, I want to be able to sign up to a mailing list so that I can stay informed (could-have)
+  8. As a user, I want high quality images that engaging me (must-have).
+  9. As a user, I want to feel a sense of community (should-have).
+  10. As a user, I want to have a positive emotional experience (should-have).
+  11. As a user, I want to be able to sign up to a mailing list so that I can stay informed (could-have).
 
 ### 3. Wire Frames
-The wireframes served as a guide throughout the design of the website. They allowed for collaboration with the client when initially discussing the layout and functionality. Below are images to each of the different layouts for mobile, tablet and desktop devices. 
+The wireframes served as a guide throughout the design of the website. They allowed for collaboration with the client when initially discussing the layout and functionality. Below are images to each of the different layouts for mobile, tablet (landscape) and desktop devices.
 
 There was some deviation from the original wireframes as the project developed. Initially, I had included a navbar, but at the clients request it was changed to a header instead. 
 
-  #### 1. Desk Top:
+  #### 1. Desk Top & Tablet (lanscape):
 
   ![wf-desk-top-welcome](https://github.com/user-attachments/assets/1344b41c-bd9e-443b-a33b-9803b602790a)
   ![wf-desk-top-about](https://github.com/user-attachments/assets/d3fcd4d7-bcec-4e2d-9c7e-4b04094bd8f8)
@@ -75,7 +80,7 @@ There was some deviation from the original wireframes as the project developed. 
   ![mobile-wire-frame](https://github.com/user-attachments/assets/ccf63cdf-6e6e-4d88-a5ea-d66db18c1f7e)
 
  ### 4. Colour Scheme
- The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trnd developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape found in the real world. The choice of backgroumnd colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplioed by the client:
+ The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trend developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape, as found in the real world. The choice of background colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplied by the client:
 
 ![light-on-wall](https://github.com/user-attachments/assets/c664d5cb-e284-4ec5-9941-7bea04311655)
 
@@ -86,7 +91,7 @@ There was some deviation from the original wireframes as the project developed. 
 
 ## 6. Features
  ### 1.	Header
- Was originally intended as a navbar. However, the client did not want any user to “click away from the content” (the client), but rather use the same functionality of the ‘single digit scroll’ as employed by other social media platforms.
+ The header was originally intended to be a navbar. However, the client did not want any user to “click away from the content” (the client), but rather use the same functionality of the ‘single digit scroll’ as employed by other social media platforms.
 
   Instead, the logo was incorporated as the header and then later used in the footer to conclude the page.
 
@@ -100,7 +105,7 @@ There was some deviation from the original wireframes as the project developed. 
   ![final logo on a transparent background](assets/images/icons/Searchlight-icon-grn.png)
 
  ### 3.	Carousel
- Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich. All of which have padding in line with the colour theme.
+ The carousel showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: "Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich". All of which have padding in line with the colour theme.
 
   #### 1. The Dead Reynolds
 ![titled-dead-reynolds](https://github.com/user-attachments/assets/3fbd041c-1525-472e-87d1-6266fc912b45)
@@ -115,10 +120,10 @@ There was some deviation from the original wireframes as the project developed. 
 ![untitles-roxokk-25](https://github.com/user-attachments/assets/355c9260-e82c-41b8-841b-1173372d28ab)
 
  ### 4.	Call to Action Buttons (cta-btns)
- Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
+ The call to action buttons were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
  
  There are two different cta-btns:
-  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com
+  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the user to the Searchlight Promotions listings page at WeGotTickets.com
 
   ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
 
@@ -127,7 +132,7 @@ There was some deviation from the original wireframes as the project developed. 
   ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
 
  ### 5.	Page Titles
- Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
+ The page titles were designed to be simple and to allow the user to know where they are on the website. I designed them offset to the left as you would find them on a note pad (in keeping with the typography chosen).
 
  This is an example of the page titles:
  
@@ -137,7 +142,7 @@ There was some deviation from the original wireframes as the project developed. 
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
 
  ### 7.	About
- The title indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils, with padding and title: 
+ The title indicates a section of the website designed for the users to get to know the business owners, how it all came into being and planned future developments. The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils, with padding and title: 
 
  ![about-img](https://github.com/user-attachments/assets/fc1aacab-11d6-4fe6-8b73-73bbbaa484d9)
 
@@ -153,11 +158,11 @@ There was some deviation from the original wireframes as the project developed. 
  ![contact form](doc/images/contact-form-with-cta-btns.png)
 
   The contact form has been designed to be simple. It contains four required fields, a non-required filed, a submit button, link to the client's Facebook page and WeGotTickets page:
-   1.	First Name (require),
+   1.	First Name (required),
    2.	Last Name (required),
-   3.	Email address (require) and'
-   4.	Message (required)
-   5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
+   3.	Email address (required),
+   4.	Message (required), and
+   5. there is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
    6. Once submitted the user is directed to a Thank You Message.
 
  ### 10.	Thank You Message
@@ -168,7 +173,7 @@ There was some deviation from the original wireframes as the project developed. 
  ### 11.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other social media platforms are used. The only other wedsite that hosts their events is on WeGotTickets.com. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base (thie reflects the client's, the author's and known fellow rock and metal fans' that we share in common's preferences).
 
- As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page. 
+ As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page. Hence, the smaller sizes of both the Facebook and WeGotTickets buttons.
  
  ### 12.	Footer 
  The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
@@ -229,12 +234,14 @@ The following bugs were identified and resolved (in no particular order):
 **Cause:** caching
 **Resolution:** deleted cookies and cache, and hard refreshed
 
+**Note Bene:** There were a lot more bugs with each line of code written, but the list was too extensive to include in this readme, therefore, a handful of them have been submitted above as an indication of the vastness and scope of the issues faced from start to finish.
+
 ## 8. Testing and Deployment
-Deployement was done early following lesson in a Code Institute Soft Ware Development Xourse that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 225 deployments.
+Deployment was done early following lesson in a Code Institute Software Development course that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 225 deployments.
 
-As I went along I tested the website on my phone and laptop using both Google and Brave (a Google based browser), as well as testing it in MS Edge on my work laptop. I tested the site for responsiveness continually in Google and Brave as I went along. I only tested it in Ms Edge once I had completed it. Other than my own testing two seperate methods were also used for testing purposes: informal and formal testing.
+As I went along I tested the website on my phone and laptop using both Google and Brave (a Google based browser), as well as testing it in MS Edge on my work laptop. I tested the site for responsiveness continually in Google and Brave as I went along. I only tested it in Ms Edge once I had completed it. Other than my own testing two separate methods were also used for testing purposes: informal and formal testing.
 
- 1. Informal manuel (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
+ 1. Informal manual (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
 
  2. Formal testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
 
@@ -242,7 +249,7 @@ As I went along I tested the website on my phone and laptop using both Google an
 
 After correcting the errors the report returned without errors:
 
-![final vaildation report without errors](doc/images/final-html-validation-index.png)
+![final validation report without errors](doc/images/final-html-validation-index.png)
 
 However, the validations for the thank you message and the error 404 message were returned without errors:
 
