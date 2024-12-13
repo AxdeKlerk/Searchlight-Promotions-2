@@ -185,7 +185,6 @@ There was some deviation from the original wireframes as the project developed. 
   The 404 error message follows the same design as the thank you message; however, the logo is linked back to the index.html with a message below it to clck on it to direct the user back to the website.
 
  ![404 error message](doc/images/404-error-page-message.png)
- ---- 
 
 ## 7. Bugs Resolved and Unresolved
 This project has been a massive learning curve from the start. Having worked my way through the course material successfully, it wasn't till I started the project did I realise how much I didn't know and needed to learn from the beginning again. Hence, every step of the way caused bugs and errors that needed to be addressed as I went along. 
