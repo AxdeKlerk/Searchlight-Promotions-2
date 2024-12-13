@@ -58,7 +58,7 @@ To create a website that:
   10. as a user, I want to have a positive emotional experience (should-have)
   11. as a user, I want to be able to sign up to a mailing list so that I can stay informed (could-have)
 
-## 6. Wire Frames
+### 3. Wire Frames
 The wireframes served as a guide throughout the design of the website. They allowed for collaboration with the client when initially discussing the layout and functionality. Below are images to each of the different layouts for mobile, tablet and desktop devices. 
 
 There was some deviation from the original wireframes as the project developed. Initially, I had included a navbar, but at the clients request it was changed to a header instead. 
@@ -74,7 +74,17 @@ There was some deviation from the original wireframes as the project developed. 
   
   ![mobile-wire-frame](https://github.com/user-attachments/assets/ccf63cdf-6e6e-4d88-a5ea-d66db18c1f7e)
 
-## 7. Features
+ ### 4. Colour Scheme
+ The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trnd developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape found in the real world. The choice of backgroumnd colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplioed by the client:
+
+![light-on-wall](https://github.com/user-attachments/assets/c664d5cb-e284-4ec5-9941-7bea04311655)
+
+ ### 5.	Typography
+  Two fonts were used for the typography of the site:
+   1.	The first being "Protest Revolution" chosen to represent a rock and metal genre in #11ED73.
+   2.	The second choice was "Geist Mono". This was chosen to create an over-all appeal of an old-school type face and both white and #11ED73 were used for content.
+
+## 6. Features
  ### 1.	Header
  Was originally intended as a navbar. However, the client did not want any user to “click away from the content” (the client), but rather use the same functionality of the ‘single digit scroll’ as employed by other social media platforms.
 
@@ -89,26 +99,7 @@ There was some deviation from the original wireframes as the project developed. 
   2.
   ![final logo on a transparent background](assets/images/icons/Searchlight-icon-grn.png)
 
- ### 3. Colour Scheme
- The colour scheme was designed inline with the 'accepted' tri-colour scheme of most rock and metal websites. However, it must be noted that there is now a trnd developing beyond this to using different and more colours; must usually neon yellow in the style of 'danger' and 'crime-scene' warning tape found in the real world. The choice of backgroumnd colour was always going to black, but the colour green (#11ED73) was picked using a colour picker taking the colour from the original business card image supplioed by the client:
-
-![light-on-wall](https://github.com/user-attachments/assets/c664d5cb-e284-4ec5-9941-7bea04311655)
-
- ### 4.	Typography
-  Two fonts were used for the typography of the site:
-   1.	The first being "Protest Revolution" chosen to represent a rock and metal genre in #11ED73.
-   2.	The second choice was "Geist Mono". This was chosen to create an over-all appeal of an old-school type face and both white and #11ED73 were used for content.
-
- ### 5.	Call to Action Buttons (cta-btns)
- Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
- 
- There are two different cta-btns:
-  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
-  2.	Eight smaller cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
-     ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
-     ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
-
- ### 6.	Carousel
+ ### 3.	Carousel
  Showcases 3 images of artists with the titles that promote the purpose of the business, all separated by 3 posters of the upcoming festival: ROXOFF 25, with the confirmed artists. The 3 images all had the title: Searching for & Promoting - Unsigned Rock & Metal Bands 4 Norwich. All of which have padding in line with the colour theme.
 
   #### 1. The Dead Reynolds
@@ -123,62 +114,71 @@ There was some deviation from the original wireframes as the project developed. 
   #### 4. ROXOFF 25
 ![untitles-roxokk-25](https://github.com/user-attachments/assets/355c9260-e82c-41b8-841b-1173372d28ab)
 
- ### 7.	Page Titles
+ ### 4.	Call to Action Buttons (cta-btns)
+ Were styled to match the colour scheme of the website and not overwhelm the user’s experience with. 
+ 
+ There are two different cta-btns:
+  1.	Two general long cta-btns were used; one under the carousel and the other under the about section. Both of which would take the use to the Searchlight Promotions listings page at WeGotTickets.com, and
+  2.	Eight smaller cta-btns that direct the user to each event’s ticket listing on WeGotTickets.com
+     ![cta-btn-1](https://github.com/user-attachments/assets/0903f9c8-de07-4da1-acb8-07960c3515e5)
+     ![cta-btn-2](https://github.com/user-attachments/assets/369cc1c9-7880-42a1-9d63-082054cf7aa4)  
+
+ ### 5.	Page Titles
  Simple page titles that allow a user to know where they are on the website. I designed them offset to the left as you would find them on a note pad.
 
  This is an example of the page titles:
  
  ![example of the page titles](doc/images/page-title-example.png)
  
- ### 8.	Welcome
+ ### 6.	Welcome
  A simple title to let the user know that they have been invited and welcomed to the site that sits alongside the carousel images (see above).
 
- ### 9.	About
+ ### 7.	About
  The title indicates a section of the website design for the users to get to know the business owners, how it all came into being and planned future developments. The about image was chosen to encapsulate the energy of the company with both owners enjoying themselves with the lead singer of an American touring band: The Midnight Devils, with padding and title: 
 
  ![about-img](https://github.com/user-attachments/assets/fc1aacab-11d6-4fe6-8b73-73bbbaa484d9)
 
- ### 10.	Events
+ ### 8.	Events
  The title indicates the section of the web page where the users can find out what gigs have been planned and how to get tickets. All event card images are current marketing image posters used on Facebook and other marketing media. Their size is not consistent, but it was more important to keep the material consistent than to resize the images. Thus, the event cards were set to the end of the column to create some cohesion for the viewing experience, placing the cta-btns in-line with each other.
  
 ![events-1](https://github.com/user-attachments/assets/c51a33fd-12a6-4d9b-a8eb-ebaa0a8ac1a6)
 ![events-2](https://github.com/user-attachments/assets/0a28d58c-1092-4a99-90df-acd84461ec1f)
 
- ### 11.	Contact
+ ### 9.	Contact
  The contact form was set to be in-line with all other content. This allowed for greater sizing of each element considering the aging demographic who may not be as proficient as the younger users’ typing skills.
 
  ![contact form](doc/images/contact-form-with-cta-btns.png)
 
   The contact form has been designed to be simple. It contains four required fields, a non-required filed, a submit button, link to the client's Facebook page and WeGotTickets page:
-    1.	First Name (require),
-    2.	Last Name (required),
-    3.	Email address (require) and'
-    4.	Message (required)
-    5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
-    6. Once submitted the user is directed to a Thank You Message.
+   1.	First Name (require),
+   2.	Last Name (required),
+   3.	Email address (require) and'
+   4.	Message (required)
+   5. There is an optional element for a phone number if the user wishes to be contacted by phone with a placeholder message to indicate how the number should be inputted.
+   6. Once submitted the user is directed to a Thank You Message.
 
- ### 12.	Thank You Message
+ ### 10.	Thank You Message
  The thank you message follows the design and style of the site; however, the logo is larger to show the ‘metal-horns’ which showcases the attention to detail of the company. It also contains a message to direct the user back to the website by closing the window.
  
 ![thank-you-message](https://github.com/user-attachments/assets/bb915b7d-f855-469c-adfd-fcaa39a42a67)
 
- ### 13.	Social Media 
+ ### 11.	Social Media 
  Currently, the only social media that Searchlight Promotions use to advertise their events is on Facebook. No other social media platforms are used. The only other wedsite that hosts their events is on WeGotTickets.com. This highlights the aging demographic’s preferences that typically do not use social media, but do however, remain loyal to Facebook as it was the first social media platform to captivate audiences and has become the only tolerated platform for an aging fan-base (thie reflects the client's, the author's and known fellow rock and metal fans' that we share in common's preferences).
 
  As the owner specifically requested not to advertise Facebook with any iconography, a simple button was used to direct a user to their Facebook page that remained consistent with the styling of the page. The vision was to create a website that was preferential to their Facebook page. 
  
- ### 14.	Footer 
+ ### 12.	Footer 
  The footer uses the logo as a point of conclusion to the web page as well as a message to advertise the designer and copyright of the site, remaining in the current theme of the site and not diverting to author’s own branding.
 
 ![footer](https://github.com/user-attachments/assets/387b50be-27be-4d3d-bed9-6f9656a87178)
 
 
- ### 15. 404 Error Message
+ ### 13. 404 Error Message
 
  ![404 error message](doc/images/404-error-page-message.png)
  ---- 
 
-## 8. Bugs Resolved and Unresolved
+## 7. Bugs Resolved and Unresolved
 This project has been a massive learning curve from the start. Having worked my way through the course material successfully, it wasn't till I started the project did I realise how much I didn't know and needed to learn from the beginning again. Hence, every step of the way caused bugs and errors that needed to be addressed as I went along. 
 
 The first major bug I encounted was with *Git* and *GitHub* itself. I ran into some trouble trying to commit and sync my code. I connected with a few fellow students on *Slack* who said that there seemed to be a few people on *Slack* mentioning that they were having problems with *GitHub* and that perhaps it would be resolved later. I took that as sound advice an carried on coding. 
@@ -205,7 +205,7 @@ The following other bugs were identified and resolved (in no particular order)
  + Continued to have problems with readme file creating a branch - fellow student advised me to work in Git rather than GitHub
  
 
-## 9. Testing and Deployment
+## 8. Testing and Deployment
 Deployement was done early following lesson in a Code Institute Soft Ware Development Xourse that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 193 deployments.
 
 Testing of the website was validated using the W3C Validation tools. The fisrt validation of my html code resulted in 17 errors as seen here:
@@ -244,7 +244,7 @@ This website was built using html, css and BootStrap. To contribute to make chan
   4. Commit and push to the main branch
   5. GitHub Pages will automatically update the live site
 
-## 10. Future Features
+## 9. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implimented in the very near future and before its offical launch.
 The following list of items will be used for the final product:
  1. Unique URL - for distribution and marketing pruposes
@@ -254,14 +254,14 @@ The following list of items will be used for the final product:
 For a future iteration: 
  4. A page solely for merchandice - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to impliment it)
 
-## 11. Conclusion
+## 10. Conclusion
 It is with great excitement that after spending more time than I should have building this website that I have gained my first client. Searchlight Promotions have asked me to maintain the website by keeping it up-to-date and developing it with the future features as detailed above.
 
 As mentioned above, this has been an exceptional learning curve but an incredibly enjoyable one. I am excited by the future and thank the Code Institute for providing me this opportunity to change the course of my ship towards riches and treasures beyond any previous imaginations, albeit through predicted turbulent waters. As somebody once said: 
 
 "Still waters never a good sailor made" (unknown source).
 
-## 12. Credits
+## 11. Credits
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reins at home and kept me fed and watered throughout,
