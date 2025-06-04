@@ -21,9 +21,11 @@ h3 {
 
 /*Header*/
 #header {
-    position: relative;
+    position: sticky;
+    overflow: hidden;
+    top: 0;
     width: 100%;
-    height: 4rem;
+    height: auto;
     background-color: black;
     z-index: 9999;
     font-size: 1.2rem;
@@ -42,31 +44,6 @@ h3 {
     width: auto;
 }
 
-/*Header
-#header div.sticky{
-    position: sticky;
-    top: 0;
-    width: 100%;
-    padding-left: 0;
-    height: auto;
-    background-color: black;
-    z-index: 9999;
-}
-#header .row {
-    margin: 0;
-    padding: 0;
-}
-#logo {
-    font-family: "Protest Revolution", sans-serif;
-    color: #11ED73;
-    font-size: 30px;
-    text-decoration: none;
-}
-.header-img {
-    height: 4rem;
-    width: auto;
-}*/
-
 /*Navigation*/
 .nav {
     display: flex;
@@ -84,7 +61,7 @@ h3 {
 
 /*Carousel*/
 #carousel {
-    margin-top: 1rem;
+    margin-top: 0.8rem;
     }
 .c-item {
     max-height: 100%;
@@ -119,7 +96,6 @@ h3 {
 .a-item {
     height: 100%;
     padding: 0.8rem;
-    /*margin-right: -20px;*/
     background-color: #11ED73;
     font-size: 12px;
     color: black;
@@ -184,239 +160,7 @@ h3 {
     margin-top: 5rem;
 }
 
-/*Media Queries*/
-
-/*1 Extra extra small mobile devices (small phones, 320px and below)
-@media screen and (max-width: 320px) {
-    #logo {
-    font-size: 1.2rem;
-    }
-    .header-img {
-    height: 2.1rem;
-    }
-    .page-title {
-        font-size: 0.8rem;
-    }
-    .f-img {
-    height: 2.1rem;
-    }
-    #logo2 {
-    font-size: 1.2rem;
-    }
-}
-
-/*2 Extra small mobile devices (small phones, 320px and above)
-@media screen and (min-width: 320px) {
-    #logo {
-    font-size: 1.3rem;
-    }
-    .header-img {
-    height: 2.2rem;
-    }
-    .page-title {
-        font-size: 1.1rem;
-    }
-    .f-img {
-    height: 2.2rem;
-    }
-    #logo2 {
-    font-size: 1.3rem;
-    }
-}
-
-/*3 Small mobile devices (phones, 360px and above)
-@media screen and (min-width: 360px) {
-    #logo {
-        font-size: 1.5rem;
-    }
-    .header-img {
-        height: 2.9rem;
-    }
-    .page-title {
-        font-size: 1.3rem;
-    }
-    .c-item {
-        padding: 0.7rem;
-    }
-    .c-caption p {
-        font-size: 1rem;
-    }
-    .a-item {
-        font-size: 1.2rem;
-        padding: 0.5rem;
-    }
-    .f-img {
-        height: 2.9rem;
-    }
-    #logo2 {
-    font-size: 1.5rem;
-    }
-}
-
-/*4 Small devices (portrait tablets and large phones, 576px and up)
-@media screen and (min-width: 576px) {
-    #logo {
-        font-size: 2.3rem;;
-    }
-    .header-img {
-        height: 3.9rem;
-    }
-    .page-title {
-        font-size: 1.5rem;
-    }
-    .c-item {
-        padding: 0.8rem;
-    }
-    .c-caption p {
-        font-size: 1.1rem;
-    }
-    .a-item {
-        font-size: 1.3rem;
-        padding: 0.7rem;
-    }
-    .f-img {
-        height: 3rem;
-    }
-    #logo2 {
-        font-size: 1.6rem;
-    }
-}
-  
-/*5 Medium devices (landscape tablets, 768px and up)
-@media screen and (min-width: 768px) {
-    #logo {
-        font-size: 2.7rem;;
-    }
-    .header-img {
-        height: 4.2rem;
-    }
-    .page-title {
-        font-size: 1.6rem;
-    }
-    .c-item {
-        padding: 0.9rem;
-    }
-    .c-caption p {
-        font-size: 1.2rem;
-    }
-    .a-item {
-        font-size: 1.4rem;
-        padding: 0.8rem;
-    }
-    .f-img {
-        height: 3.1rem;
-    }
-    #logo2 {
-        font-size: 1.7rem;
-    }
-}
-
-/*6 Large devices (laptops/desktops, 992px and up)
-@media screen and (min-width: 992px) {
-    body {
-        font-size: 1.1rem;
-    }
-    #logo {
-        font-size: 2.8rem;;
-    }
-    .header-img {
-        height: 4.3rem;
-    }
-    .c-item {
-        padding: 0.9rem;
-    }
-    .header-item {
-        font-size: 1.3rem;
-    }
-    .page-title {
-        font-size: 1.7rem;
-    }
-    .c-item {
-        padding: 1rem;
-    }
-    .c-caption p {
-        font-size: 1.4rem;
-    }
-    .a-item {
-        font-size: 1.5rem;
-        padding: 1rem;
-    }
-    .f-img {
-        height: 3.2rem;
-    }
-    #logo2 {
-        font-size: 1.8rem;
-    }
-}
-
-/*7 Extra large devices (large laptops and desktops, 1200px and up)
-@media screen and (min-width: 1200px) {
-    Body {
-        font-size: 1.2rem;
-    }
-    #logo {
-        font-size: 2.9rem;
-    }
-    .header-img {
-        height: 4.4rem;
-    }
-    .header-item {
-        font-size: 1.5rem;
-    }
-    .page-title {
-        font-size: 1.8rem;
-    }
-    .c-item {
-        padding: 1.1rem;
-    }
-    .c-caption p {
-        font-size: 1.7rem;
-    }
-    .a-item {
-        font-size: 1.6rem;
-    }
-    .f-img {
-        height: 3.3rem;
-    }
-    #logo2 {
-        font-size: 1.9rem;
-    }
-}
-
-/*8 Extra extra large devices (large laptops and desktops, 1200px and up) 
-@media screen and (min-width: 1200px) {
-    body {
-        font-size: 1.3rem;
-    }
-    #logo {
-        font-size: 3rem;
-    }
-    .header-img {
-        height: 4.5rem;
-    }
-    .header-item {
-            font-size: 3rem;
-    }
-    .page-title {
-        font-size: 1.9rem;
-    }
-    .c-item {
-        padding: 1.2rem;
-    }
-    .c-caption p {
-        font-size: 1.9rem;
-    }
-    .a-item {
-        font-size: 1.7rem;
-        padding: 1.2rem;
-    }
-    .f-img {
-        height: 3.4rem;
-    }
-    #logo2 {
-        font-size: 2rem;
-    }
-}*/
+/*Media Quieries*/
 
 /*1 Extra small mobile devices (small phones, 320px and above)*/
 @media screen and (min-width: 320px) {
@@ -445,9 +189,6 @@ h3 {
 
 /*2 Small mobile devices (phones, 360px and above)*/
 @media screen and (min-width: 360px) {
-    /*body {
-        padding-top: 7rem;
-    }*/
     #logo {
         font-size: 1.5rem;
     }
@@ -486,9 +227,6 @@ h3 {
     #logo {
         font-size: 2.3rem;
     }
-    #header {
-        height: 3rem;
-    }
     .header-img {
         height: 3.9rem;
     }
@@ -521,14 +259,8 @@ h3 {
   
 /*4 Medium devices (landscape tablets, 768px and up)*/
 @media screen and (min-width: 768px) {
-    /*body {
-        padding-top: 8rem;
-    }*/
     #logo {
         font-size: 2.7rem;
-    }
-    #header {
-        height: 5rem;
     }
     .header-img {
         height: 4.2rem;
@@ -540,7 +272,7 @@ h3 {
         font-size: 1rem;
     }
     #carousel {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
     .c-item {
         padding: 0.7rem;
@@ -570,9 +302,6 @@ h3 {
     #logo {
         font-size: 2.8rem;
     }
-    #header {
-        height: 6rem;
-    }
     .header-img {
         height: 4.3rem;
     }
@@ -582,9 +311,6 @@ h3 {
     .nav-link {
         font-size: 1.4rem;
     }
-    /*.c-item {
-        padding: 1rem;
-    }*/
     .c-caption p {
         font-size: 1.4rem;
     }
@@ -608,9 +334,6 @@ h3 {
     #logo {
         font-size: 2.9rem;
     }
-    #header {
-        height: 7rem;
-    }
     .header-img {
         height: 4.4rem;
     }
@@ -620,9 +343,6 @@ h3 {
     .nav-link {
         font-size: 1.5rem;
     }
-    /*.c-item {
-        padding: 1.1rem;
-    }*/
     .c-caption p {
         font-size: 1.7rem;
     }
@@ -653,7 +373,7 @@ h3 {
         font-size: 2rem;
     }
     #carousel {
-        margin-top: 3rem;
+        margin-top: 2rem;
     }
     .c-item {
         padding: 0.8rem;
