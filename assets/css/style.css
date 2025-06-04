@@ -9,6 +9,7 @@ body {
     color:white;
     height: 100vh;
     margin-left: 10px;
+    padding-top: 1rem;
 }
 .page-title {
     font-size: 1.3rem;
@@ -19,22 +20,72 @@ h3 {
 }
 
 /*Header*/
+#header {
+    position: relative;
+    width: 100%;
+    height: 4rem;
+    background-color: black;
+    z-index: 9999;
+    font-size: 1.2rem;
+}
 #logo {
     font-family: "Protest Revolution", sans-serif;
     color: #11ED73;
-    padding-top: 10px;
     font-size: 30px;
     text-decoration: none;
 }
 .header-brand {
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 .header-img {
     height: 4rem;
     width: auto;
 }
 
+/*Header
+#header div.sticky{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding-left: 0;
+    height: auto;
+    background-color: black;
+    z-index: 9999;
+}
+#header .row {
+    margin: 0;
+    padding: 0;
+}
+#logo {
+    font-family: "Protest Revolution", sans-serif;
+    color: #11ED73;
+    font-size: 30px;
+    text-decoration: none;
+}
+.header-img {
+    height: 4rem;
+    width: auto;
+}*/
+
+/*Navigation*/
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.nav-link {
+    color: #11ED73;
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: white;
+}
+
 /*Carousel*/
+#carousel {
+    margin-top: 1rem;
+    }
 .c-item {
     max-height: 100%;
     padding: 0.8rem;
@@ -44,6 +95,7 @@ h3 {
     width: 75%;
     left: 12.5%;
     text-align: center;
+    align-items: center;
     margin-bottom: 0;
     padding-bottom: 0;
 }
@@ -67,7 +119,7 @@ h3 {
 .a-item {
     height: 100%;
     padding: 0.8rem;
-    margin-right: -20px;
+    /*margin-right: -20px;*/
     background-color: #11ED73;
     font-size: 12px;
     color: black;
@@ -134,7 +186,7 @@ h3 {
 
 /*Media Queries*/
 
-/*1 Extra extra small mobile devices (small phones, 320px and below)*/
+/*1 Extra extra small mobile devices (small phones, 320px and below)
 @media screen and (max-width: 320px) {
     #logo {
     font-size: 1.2rem;
@@ -153,7 +205,7 @@ h3 {
     }
 }
 
-/*2 Extra small mobile devices (small phones, 320px and above)*/
+/*2 Extra small mobile devices (small phones, 320px and above)
 @media screen and (min-width: 320px) {
     #logo {
     font-size: 1.3rem;
@@ -172,7 +224,7 @@ h3 {
     }
 }
 
-/*3 Small mobile devices (phones, 360px and above)*/
+/*3 Small mobile devices (phones, 360px and above)
 @media screen and (min-width: 360px) {
     #logo {
         font-size: 1.5rem;
@@ -201,7 +253,7 @@ h3 {
     }
 }
 
-/*4 Small devices (portrait tablets and large phones, 576px and up)*/
+/*4 Small devices (portrait tablets and large phones, 576px and up)
 @media screen and (min-width: 576px) {
     #logo {
         font-size: 2.3rem;;
@@ -230,7 +282,7 @@ h3 {
     }
 }
   
-/*5 Medium devices (landscape tablets, 768px and up)*/
+/*5 Medium devices (landscape tablets, 768px and up)
 @media screen and (min-width: 768px) {
     #logo {
         font-size: 2.7rem;;
@@ -259,7 +311,7 @@ h3 {
     }
 }
 
-/*6 Large devices (laptops/desktops, 992px and up)*/
+/*6 Large devices (laptops/desktops, 992px and up)
 @media screen and (min-width: 992px) {
     body {
         font-size: 1.1rem;
@@ -297,7 +349,7 @@ h3 {
     }
 }
 
-/*7 Extra large devices (large laptops and desktops, 1200px and up)*/
+/*7 Extra large devices (large laptops and desktops, 1200px and up)
 @media screen and (min-width: 1200px) {
     Body {
         font-size: 1.2rem;
@@ -331,7 +383,7 @@ h3 {
     }
 }
 
-/*8 Extra extra large devices (large laptops and desktops, 1200px and up)*/ 
+/*8 Extra extra large devices (large laptops and desktops, 1200px and up) 
 @media screen and (min-width: 1200px) {
     body {
         font-size: 1.3rem;
@@ -364,4 +416,262 @@ h3 {
     #logo2 {
         font-size: 2rem;
     }
-}   
+}*/
+
+/*1 Extra small mobile devices (small phones, 320px and above)*/
+@media screen and (min-width: 320px) {
+    #logo {
+    font-size: 1.3rem;
+    }
+    .header-img {
+    height: 2.2rem;
+    }
+    .page-title {
+        font-size: 1.1rem;
+    }
+    .c-item {
+        padding: 0.4rem;
+    }
+    .a-img {
+        padding: 0.4rem;
+    }
+    .f-img {
+    height: 2.2rem;
+    }
+    #logo2 {
+    font-size: 1.3rem;
+    }
+}
+
+/*2 Small mobile devices (phones, 360px and above)*/
+@media screen and (min-width: 360px) {
+    /*body {
+        padding-top: 7rem;
+    }*/
+    #logo {
+        font-size: 1.5rem;
+    }
+    .header-img {
+        height: 2.9rem;
+    }
+    .page-title {
+        font-size: 1.3rem;
+    }
+    .nav-link {
+        font-size: 0.9rem;
+    }
+    .c-item {
+        padding: 0.5rem;
+    }
+    .a-img {
+        padding: 0.5rem;
+    }
+    .c-caption p {
+        font-size: 1rem;
+    }
+    .a-item {
+        font-size: 1.2rem;
+        padding: 0.5rem;
+    }
+    .f-img {
+        height: 2.9rem;
+    }
+    #logo2 {
+    font-size: 1.5rem;
+    }
+}
+
+/*3 Small devices (portrait tablets and large phones, 576px and up)*/
+@media screen and (min-width: 576px) {
+    #logo {
+        font-size: 2.3rem;
+    }
+    #header {
+        height: 3rem;
+    }
+    .header-img {
+        height: 3.9rem;
+    }
+    .page-title {
+        font-size: 1.5rem;
+    }
+    .nav-link {
+        font-size: 1rem;
+    }
+    .c-item {
+        padding: 0.6rem;
+    }
+    .c-caption p {
+        font-size: 1.1rem;
+    }
+    .a-item {
+        font-size: 1.3rem;
+        padding: 0.7rem;
+    }
+    .a-img {
+        padding: 0.6rem;
+    }
+    .f-img {
+        height: 3rem;
+    }
+    #logo2 {
+        font-size: 1.6rem;
+    }
+}
+  
+/*4 Medium devices (landscape tablets, 768px and up)*/
+@media screen and (min-width: 768px) {
+    /*body {
+        padding-top: 8rem;
+    }*/
+    #logo {
+        font-size: 2.7rem;
+    }
+    #header {
+        height: 5rem;
+    }
+    .header-img {
+        height: 4.2rem;
+    }
+    .page-title {
+        font-size: 1.6rem;
+    }
+    .nav-link {
+        font-size: 1rem;
+    }
+    #carousel {
+        margin-top: 2rem;
+    }
+    .c-item {
+        padding: 0.7rem;
+    }
+    .c-caption p {
+        font-size: 1.2rem;
+    }
+    .a-item {
+        padding: 0.8rem;
+    }
+    .a-img {
+        padding: 0.7rem;
+    }
+    .f-img {
+        height: 3.1rem;
+    }
+    #logo2 {
+        font-size: 1.7rem;
+    }
+}
+
+/*5 Large devices (laptops/desktops, 992px and up)*/
+@media screen and (min-width: 992px) {
+    body {
+        font-size: 1.1rem;
+    }
+    #logo {
+        font-size: 2.8rem;
+    }
+    #header {
+        height: 6rem;
+    }
+    .header-img {
+        height: 4.3rem;
+    }
+    .page-title {
+        font-size: 1.7rem;
+    }
+    .nav-link {
+        font-size: 1.4rem;
+    }
+    /*.c-item {
+        padding: 1rem;
+    }*/
+    .c-caption p {
+        font-size: 1.4rem;
+    }
+    .a-item {
+        font-size: 1.4rem;
+        padding: 1rem;
+    }
+    .f-img {
+        height: 3.2rem;
+    }
+    #logo2 {
+        font-size: 1.8rem;
+    }
+}
+
+/*6 Extra large devices (large laptops and desktops, 1200px and up)*/
+@media screen and (min-width: 1200px) {
+    body {
+        font-size: 1.2rem;
+    }
+    #logo {
+        font-size: 2.9rem;
+    }
+    #header {
+        height: 7rem;
+    }
+    .header-img {
+        height: 4.4rem;
+    }
+    .page-title {
+        font-size: 1.8rem;
+    }
+    .nav-link {
+        font-size: 1.5rem;
+    }
+    /*.c-item {
+        padding: 1.1rem;
+    }*/
+    .c-caption p {
+        font-size: 1.7rem;
+    }
+    .a-item {
+        font-size: 1.4rem;
+        padding: 1.2rem;
+    }
+    .f-img {
+        height: 3.3rem;
+    }
+    #logo2 {
+        font-size: 1.9rem;
+    }
+}
+
+/*8 Extra extra large devices (large laptops and desktops, 1400px and up)*/
+@media screen and (min-width: 1400px) {
+    body {
+        font-size: 1.5rem;
+    }
+    #logo {
+        font-size: 4rem;
+    }
+    .header-img {
+        height: 5rem;
+    }
+    .page-title {
+        font-size: 2rem;
+    }
+    #carousel {
+        margin-top: 3rem;
+    }
+    .c-item {
+        padding: 0.8rem;
+    }
+    .c-caption p {
+        font-size: 1.9rem;
+    }
+    .a-item {
+        font-size: 1.7rem;
+        padding: 1.2rem;
+    }
+    .a-img {
+        padding: 0.8rem;
+    }
+    .f-img {
+        height: 3.4rem;
+    }
+    #logo2 {
+        font-size: 2rem;
+    }
+}
