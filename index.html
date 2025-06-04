@@ -39,32 +39,56 @@
   </header>-->
 
 <header class="container-fluid p-0 m-0 bg-black" id="header">
-  <!-- Row 1: Logo + Title -->
-  <div class="row align-items-center py-2">
-    <div class="col-auto d-flex align-items-center" id="logo">
-      <img src="assets/images/logo.png" alt="logo for searchlight promotions" class="header-img me-2">
-      <span class="text-brand">SEARCHLIGHT PROMOTIONS</span>
-    </div>
-  </div>
-
-  <!-- Row 2: Partner image + hamburger menu -->
-  <div class="row pb-2">
-    <div class="col-12">
-      <div class="d-flex justify-content-center align-items-center" style="gap: 1rem;">
-      <!-- Centered Partner Badge -->
-      <img src="assets/images/roxoff-25-v4.png" alt="partner badge" class="header-img" style="height: 2.5rem;">
-
-      <!-- Hamburger menu -->
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarLinks" aria-controls="navbarLinks" aria-expanded="false" aria-label="Toggle navigation">
+  <!-- Layout for < 992px -->
+  <div class="d-flex d-lg-none flex-column align-items-center">
+    <!-- Row 1: logo + title and hamburger -->
+    <div class="w-100 d-flex justify-content-between align-items-center mb-2">
+      <div class="d-flex align-items-center" id="logo">
+        <img src="assets/images/logo.png" alt="logo" class="header-img me-2">
+        <span class="text-brand">SEARCHLIGHT PROMOTIONS</span>
+      </div>
+      <button class="navbar-toggler" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarLinks"
+              aria-controls="navbarLinks"
+              aria-expanded="false"
+              aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
     </div>
+
+    <!-- Row 2: partner image centered -->
+    <div>
+      <img src="assets/images/roxoff-25-v4.png" alt="partner badge" class="header-img">
+    </div>
   </div>
 
-  <!-- Collapsible nav links -->
+  <!-- Layout for ≥ 992px (everything in one line) -->
+  <div class="d-none d-lg-flex justify-content-between align-items-center px-3 py-2">
+    <!-- Left: logo + title -->
+    <div class="d-flex align-items-center" id="logo">
+      <img src="assets/images/logo.png" alt="logo" class="header-img me-2">
+      <span class="text-brand">SEARCHLIGHT PROMOTIONS</span>
+    </div>
+
+    <!-- Center: partner image -->
+    <img src="assets/images/roxoff-25-v4.png" alt="partner badge" class="header-img">
+
+    <!-- Right: hamburger -->
+    <button class="navbar-toggler" type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarLinks"
+            aria-controls="navbarLinks"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
+
+  <!-- Collapsible nav links (shared for all screen sizes) -->
   <div class="row">
     <div class="collapse navbar-collapse justify-content-center" id="navbarLinks">
-      <div class="w-100 text-center">
+      <div class="w-100 d-flex justify-content-center">
         <ul class="navbar-nav d-inline-flex flex-row gap-3">
           <li class="nav-item">
             <a class="nav-link" href="#carousel">Home</a>
