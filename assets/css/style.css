@@ -28,12 +28,19 @@ h3 {
     height: auto;
     background-color: black;
     z-index: 9999;
-    margin-right: 0.5rem;
 }
 #logo {
     font-family: "Protest Revolution", sans-serif;
     color: #11ED73;
     /*text-decoration: none;*/
+}
+#header .navbar-toggler {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+#header .navbar-toggler-icon {
+    width: 100%;
+    height: 100%;
 }
 .text-brand{
     color: #11ED73;
@@ -50,10 +57,12 @@ h3 {
 /*Navigation*/
 .navbar-toggler-icon {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%2311ED73' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-}
-.navbar-toggler {
     border-color: #11ED73;
+    height: 2rem;
 }
+/*.navbar-toggler {
+    border-color: #11ED73;
+}*/
 .nav {
     display: flex;
     justify-content: space-between;
@@ -199,7 +208,7 @@ h3 {
 /*2 Small mobile devices (phones, 360px and above)*/
 @media screen and (min-width: 360px) {
     .text-brand {
-        font-size: 1.3rem;
+        font-size: 1.4rem;
     }
     .header-img {
         height: 2.9rem;
@@ -276,10 +285,14 @@ h3 {
 /*5 Medium devices (landscape tablets, 768px and up)*/
 @media screen and (min-width: 768px) {
     .text-brand {
-        font-size: 2.7rem;
+        font-size: 2.5rem;
+    }
+    #header .navbar-toggler {
+    width: 2rem;
+    height: 2rem;
     }
     .header-img {
-        height: 4.2rem;
+        height: 4rem;
     }
     .page-title {
         font-size: 1.6rem;
@@ -316,7 +329,11 @@ h3 {
         font-size: 1.1rem;
     }
     .text-brand {
-        font-size: 2.8rem;
+        font-size: 2.7rem;
+    }
+    #header .navbar-toggler {
+        width: 2.5rem;
+        height: 2.5rem;
     }
     .header-img {
         height: 4.7rem;
@@ -349,6 +366,10 @@ h3 {
     }
     .text-brand {
         font-size: 2.9rem;
+    }
+    #header .navbar-toggler {
+        width: 2.7rem;
+        height: 2.7rem;
     }
     .header-img {
         height: 4.4rem;
