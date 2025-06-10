@@ -148,6 +148,11 @@ h3 {
     color: #11ED73;
 }
 
+/*Roxoff Page */
+.roxoff-item {
+    font-size: 3rem;
+}
+
 /*Footer*/
 .f-item {
     margin-top: 1rem;
