@@ -200,7 +200,12 @@ h3 {
     text-decoration: none;
 }
 .f-img {
-    height: 2rem;
+    height: 2.5rem;
+}
+.cr-img {
+    height: 0.8rem;
+    width: auto;
+    margin-right: 0.5rem;
 }
 
 /*Thank you message*/
