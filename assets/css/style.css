@@ -133,8 +133,28 @@ h3 {
     font-size: 12px;
     color: white;
 }
-.cr-img {
-    height: 0.8rem;
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+.card.e-item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.card-body ul {
+    margin-top:auto;
+    margin-bottom: 0.5rem;
+}
+.card-text-list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
 }
 
 /*Contact page*/
@@ -149,8 +169,20 @@ h3 {
 }
 
 /*Roxoff Page */
+#roxoff {
+    max-height: 800px;
+    max-width: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 .roxoff-item {
-    font-size: 3rem;
+    font-size: 2rem;
+}
+.roxoff-img {
+    height: 75%;
+    width: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 /*Footer*/
@@ -355,7 +387,7 @@ h3 {
     .a-item {
         font-size: 1.4rem;
         padding: 1rem;
-    }
+    }    
     .f-img {
         height: 3.2rem;
     }
