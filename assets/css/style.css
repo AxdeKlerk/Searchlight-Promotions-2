@@ -180,7 +180,13 @@ h3 {
 }
 .roxoff-img {
     height: 75%;
-    width: auto;
+    width: 100%;
+    max-width: 90vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-position: center center;
+    object-fit: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
