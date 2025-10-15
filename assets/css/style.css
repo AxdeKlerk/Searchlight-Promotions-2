@@ -135,7 +135,7 @@ h3 {
 }
 .card-img-top {
     object-fit: cover;
-    height: 200px;
+    /*height: 200px;*/
 }
 .card.e-item {
     display: flex;
