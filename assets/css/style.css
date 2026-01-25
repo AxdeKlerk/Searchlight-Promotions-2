@@ -113,9 +113,9 @@ h3 {
 /*About page*/
 .a-item {
     height: 100%;
-    padding: 0.8rem;
+    width: 100%;
     background-color: #11ED73;
-    font-size: 10px;
+    font-size: 0.8rem;
     color: black;
 }
 .a-img {
@@ -130,7 +130,7 @@ h3 {
     color: #11ED73;
 }
 .e-item ul {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     color: white;
 }
 .card-img-top {
@@ -269,10 +269,6 @@ h3 {
     .c-caption p {
         font-size: 1rem;
     }
-    .a-item {
-        font-size: 1.2rem;
-        padding: 0.5rem;
-    }
     .f-img {
         height: 1.5rem;
     }
@@ -285,10 +281,6 @@ h3 {
     }
     .c-caption p {
         font-size: 1.1rem;
-    }
-    .a-item {
-        font-size: 1.3rem;
-        padding: 0.7rem;
     }
     .a-img {
         padding: 0.6rem;
@@ -321,9 +313,6 @@ h3 {
     }
     .c-caption p {
         font-size: 1.2rem;
-    }
-    .a-item {
-        padding: 0.8rem;
     }
     .a-img {
         padding: 0.7rem;
@@ -358,8 +347,8 @@ h3 {
         font-size: 1.4rem;
     }
     .a-item {
-        font-size: 1.4rem;
-        padding: 1rem;
+        font-size: 1.1rem;
+        margin-right: 3rem;
     }    
     .f-img {
         height: 2.4rem;
@@ -381,8 +370,7 @@ h3 {
         font-size: 1.7rem;
     }
     .a-item {
-        font-size: 1.4rem;
-        padding: 1.2rem;
+        font-size: 1.1rem;
     }
     .f-img {
         height: 2.5rem;
@@ -415,10 +403,6 @@ h3 {
     }
     .page-title {
         font-size: 1.2rem;
-    }
-    .a-item {
-        font-size: 1.7rem;
-        padding: 1.2rem;
     }
     .a-img {
         padding: 0.8rem;
