@@ -137,13 +137,13 @@ h3 {
     width: 100%;
 }
 .card-text-header {
-    min-height: 9rem; /* tune once */
+    min-height: 4rem; /* tune once */
 }
 .card-body h2 {
-    min-height: 4.8rem;
+    min-height: 2.4rem;
 }
 .card-body h3 {
-    min-height: 4rem;
+    min-height: 2rem;
 }
 .card-body {
     display: flex;
@@ -317,6 +317,15 @@ h3 {
     .a-img {
         padding: 0.7rem;
     }
+    .card-text-header {
+        min-height: 4rem;
+    }
+    .card-body h2 {
+        min-height: 4.4rem;
+    }
+    .card-body h3 {
+        min-height: 2.8rem;
+    }
     .f-img {
         height: 2.3rem;
     }
@@ -349,6 +358,15 @@ h3 {
     .a-item {
         font-size: 1.1rem;
         margin-right: 3rem;
+    }
+    .card-text-header {
+        min-height: 4rem; /* tune once */
+    }
+    .card-body h2 {
+        min-height: 5.2rem;
+    }
+    .card-body h3 {
+        min-height: 4.8rem;
     }    
     .f-img {
         height: 2.4rem;
