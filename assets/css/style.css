@@ -129,6 +129,8 @@ h3 {
     background-color: black;
     color: #11ED73;
     height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 .card-img-top {
     object-fit: contain;
@@ -136,35 +138,41 @@ h3 {
     height: 200px;
     width: 100%;
 }
-.card-header-text {
-    min-height: 5rem;
+.card-text-header {
     margin-bottom: 0.5rem;
     display: grid;
     row-gap: 0.25rem;
 }
-.card-header-text h2 {
+.card-text-header h2 {
     font-size: 1.5rem;
     line-height: 1.2;
     margin: 0;
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
 }
-.card-header-text h3 {
+.card-text-header h3 {
     line-height: 1.3;
     margin: 0.25rem 0 0;
 }
 .card-body {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
 }
 .card-text-list {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 0.8rem;
     color: white;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 .card-text-list ul {
     margin: 0;
     width: 100%;
+}
+.card-cta {
+    margin-top: auto;
 }
 
 /*Contact page*/
@@ -328,27 +336,9 @@ h3 {
     .a-img {
         padding: 0.7rem;
     }
-    /*.card-body {
+    #event-cards .col-md-6,
+    #event-cards .col-lg-4 {
         display: flex;
-        flex-direction: column;
-        height: 100%;
-    }
-    .card-header-text {
-        display: grid;
-        row-gap: 0.25rem;
-        min-height: clamp(6rem 20vw, 9rem);
-    }
-    .card-header-text h3 {
-        line-height: 1.3;
-        margin: 0.25rem 0 0;
-    }
-    .card-text-list {
-        flex-grow: 1;
-        display: flex;
-        align-items: flex-end;
-    }*/
-    .card-cta {
-        margin-top: auto;
     }
     .f-img {
         height: 2.3rem;
@@ -382,9 +372,6 @@ h3 {
     .a-item {
         font-size: 1.1rem;
         margin-right: 3rem;
-    }
-    .card-header-text {
-        margin-bottom: 0.5rem;
     }
     .f-img {
         height: 2.4rem;
